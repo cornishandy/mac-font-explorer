@@ -66,5 +66,5 @@ Publish with `git add -A && git commit -m "…" && git push`. GitHub Pages redep
 - [x] Image specimens for devices without the font
 - [x] Docs: README, decisions, handoff
 - [x] GitHub repo and Pages: https://github.com/cornishandy/mac-font-explorer
-- [ ] T3 Code project on this folder, with the thread renamed "Mac Font Explorer" (manual: see docs/SESSION_HANDOFF.md)
-- [ ] First real sync: connect a gist token on the computer, then open the phone setup link. The merge logic is tested against a mocked GitHub API.
+- [x] T3 Code project on this folder, with the continuation thread renamed "Mac Font Explorer"
+- [x] First real Gist sync on the computer and both phones (confirmed by the user on 2026-09-26)
