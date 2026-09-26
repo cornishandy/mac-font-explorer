@@ -65,5 +65,6 @@ Publish with `git add -A && git commit -m "…" && git push`. GitHub Pages redep
 - [x] Cross-device sync (GitHub Gist) with export and import fallback
 - [x] Image specimens for devices without the font
 - [x] Docs: README, decisions, handoff
-- [ ] GitHub repo and Pages
-- [ ] T3 Code project on this folder, with the thread renamed "Mac Font Explorer"
+- [x] GitHub repo and Pages: https://github.com/cornishandy/mac-font-explorer
+- [ ] T3 Code project on this folder, with the thread renamed "Mac Font Explorer" (manual: see docs/SESSION_HANDOFF.md)
+- [ ] First real sync: connect a gist token on the computer, then open the phone setup link. The merge logic is tested against a mocked GitHub API.

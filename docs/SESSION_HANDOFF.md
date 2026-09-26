@@ -42,6 +42,20 @@ T3 Code's session row showed `status: error` with `last_error: thread 01a0d18a-f
 | `index.template.html`, `styles.css`, `app.js` | UI in vanilla JS with no dependencies, SVG charts, and localStorage |
 | `tools/build-standalone.py` | Inlines everything into the single-file HTML |
 
+## What this session delivered
+
+- The new folder, a public repo at https://github.com/cornishandy/mac-font-explorer, and Pages at https://cornishandy.github.io/mac-font-explorer/.
+- Research: `research/descriptions-{A,B,C,D}.json` (183 families) and `research/taxonomy.json` (7 categories, 33 subtypes, 18 tags). Four parallel agents produced them, and every link returned HTTP 200. Conflicting sources are noted in the text, and unverifiable years are left null.
+- The page gained style-tag filters, About & history panels, a Type guide tab, the "On this device" filter with image specimens, and gist sync with export and import. Popularity was removed. On phones, filters start collapsed.
+- Verified in a browser at desktop and iPhone 14 Pro Max sizes: every tab, tag filters, star and saved-view round trip, sync merge (mocked GitHub API: create, pull, merge, and push with tombstones), image fallback (`?preview-missing`), and zero console errors. The live Pages URL loads all 183 cards.
+
+## Remaining manual steps (T3 Code UI)
+
+T3 creates projects from the desktop client over an authenticated local API. Writing its event-sourced SQLite by hand risks corrupting state, so these steps are manual:
+1. Sidebar → **Add project** → choose `~/Documents/ChatGPT/mac-font-explorer`.
+2. Rename the continuation thread to **Mac Font Explorer** (right-click the thread → Rename). Or start a new thread in the new project with the resume prompt below.
+3. Optional: quit the ChatGPT desktop app so the old thread `080f242c…` becomes writable again, then archive it.
+
 ## Decisions made in this session
 
 See `docs/DECISIONS.md` for the full list and rationale.
