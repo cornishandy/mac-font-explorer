@@ -1,0 +1,370 @@
+[
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Avenir"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q505337"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1988-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arial"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q653123"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1982-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Baskerville"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q768857"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1757-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "American Typewriter"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4745296"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1974-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Futura"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q247686"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Didot"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q933861"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1784-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cochin"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5139303"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Impact"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q246115"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1963-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Georgia"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q246141"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1993-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Helvetica"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q504745"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Geneva"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q622571"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1984-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gill Sans"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q255886"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Hoefler Text"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1622796"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Monaco"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q246407"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1983-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lucida Grande"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2560024"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1999-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Menlo"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q6817145"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "2011-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Optima"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1091875"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Palatino"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1093499"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Times New Roman"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q213048"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Verdana"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q610791"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1996-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tahoma"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q910757"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1994-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Trebuchet MS"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1631297"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1996-01-01T00:00:00Z"
+    }
+  },
+  {
+    "label": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Skia"
+    },
+    "item": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q7534970"
+    },
+    "date": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1994-01-01T00:00:00Z"
+    }
+  }
+]
