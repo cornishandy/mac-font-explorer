@@ -1,0 +1,938 @@
+[
+  {
+    "family": "SF Pro",
+    "summary": "Apple's own system typeface, a clean neo-grotesque sans serif used throughout macOS, iOS and Apple's products. It's built for crisp on-screen reading, with separate Text and Display optical sizes and a wide range of weights.",
+    "history": "San Francisco was designed in-house at Apple and first released to developers on November 18, 2014; it was Apple's first new typeface in nearly twenty years and was inspired by Helvetica and FF DIN. It replaced Helvetica Neue as the macOS system font in 2015, and a revised version called SF Pro arrived in 2017 with more weights, optical sizes and languages. It's also Apple's corporate typeface, licensed to developers only for making apps for Apple platforms.",
+    "designers": "Apple Inc.",
+    "originalDesignYear": 2014,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_(sans-serif_typeface)"
+      },
+      {
+        "label": "Apple Developer",
+        "url": "https://developer.apple.com/fonts/"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/39620/san-francisco"
+      }
+    ]
+  },
+  {
+    "family": "Academy Engraved LET",
+    "summary": "A decorative serif whose letters are drawn as hollow outlines, like engraved lettering on a certificate or formal invitation. It's meant for titles, headings and short display lines rather than body text.",
+    "history": "Academy Engraved was designed by Vince Whitlock for Letraset and dates from 1989; it was later distributed by ITC and Linotype. Wikipedia describes it as a derivative of the French Cochin typeface with a larger x-height. The \"LET\" in the name stands for Letraset, and Apple includes it as a macOS system font.",
+    "designers": "Vince Whitlock (Letraset)",
+    "originalDesignYear": 1989,
+    "category": "Display & decorative",
+    "subtype": "Engraved / titling",
+    "tags": [
+      "Engraved / inline",
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/13033/academy-engraved"
+      },
+      {
+        "label": "MyFonts",
+        "url": "https://www.myfonts.com/collections/academy-engraved-font-itc"
+      },
+      {
+        "label": "Wikipedia (Cochin)",
+        "url": "https://en.wikipedia.org/wiki/Cochin_(typeface)"
+      }
+    ]
+  },
+  {
+    "family": "American Typewriter",
+    "summary": "A slab serif that imitates the look of typewriter lettering, but with proportional spacing so it reads more smoothly than a true typewriter font. It's often used to give a nostalgic, old-fashioned or industrial feel.",
+    "history": "American Typewriter was created in 1974 by Joel Kaden and Tony Stan for the International Typeface Corporation (ITC), first released for phototypesetting before being digitized. Like many ITC faces it came in several weights plus condensed styles, and Ed Benguiat added italics in 1989. Apple ships it with macOS.",
+    "designers": "Joel Kaden, Tony Stan",
+    "originalDesignYear": 1974,
+    "category": "Serif",
+    "subtype": "Slab serif",
+    "tags": [
+      "Typewriter"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/American_Typewriter"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/10/itc-american-typewriter"
+      }
+    ]
+  },
+  {
+    "family": "Andale Mono",
+    "summary": "A clear, monospaced sans serif designed for terminals and programming, where every character takes the same width. It's a highly legible choice for code and terminal work.",
+    "history": "Steve Matteson designed Andalé Mono at Monotype, originally for Taligent, a joint software project of Apple and IBM; Fonts In Use dates its release to 1995. Microsoft distributed it with Internet Explorer and in its Core Fonts for the Web package, and it is bundled with macOS.",
+    "designers": "Steve Matteson",
+    "originalDesignYear": 1995,
+    "category": "Monospace",
+    "subtype": "Coding monospace",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andal%C3%A9_Mono"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/andale-mono"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/8064/andale-mono"
+      }
+    ]
+  },
+  {
+    "family": "Apple Braille",
+    "summary": "A font that displays the 256 dot patterns of the Unicode Braille Patterns block, so braille characters can be shown on screen. It's useful for previewing or documenting braille text rather than for reading prose.",
+    "history": "Apple Braille is an Apple system font whose copyright dates from 2007. On macOS it's accompanied by Outline and Pinpoint variants in 6-dot and 8-dot forms, which draw the braille cells in different visual styles.",
+    "designers": "Apple Inc.",
+    "originalDesignYear": null,
+    "category": "Symbols & pictographs",
+    "subtype": "Braille",
+    "tags": [],
+    "links": [
+      {
+        "label": "Apple Developer",
+        "url": "https://developer.apple.com/fonts/system-fonts/"
+      },
+      {
+        "label": "Wikipedia (Braille Patterns)",
+        "url": "https://en.wikipedia.org/wiki/Braille_Patterns"
+      }
+    ]
+  },
+  {
+    "family": "Apple Chancery",
+    "summary": "A calligraphic script modeled on the italic chancery handwriting of Renaissance scribes, with flowing letters and optional swashes. It suits invitations, certificates and anything that wants a formal, hand-lettered touch.",
+    "history": "Kris Holmes of Bigelow & Holmes designed Apple Chancery for Apple in 1993, and it served as a test bed for contextual alternates in Apple's advanced font technology (QuickDraw GX, later AAT). Compared with Holmes's Lucida Calligraphy it has a smaller x-height and less slant, closer to classical chancery cursives. It is still installed on Macs.",
+    "designers": "Kris Holmes (Bigelow & Holmes)",
+    "originalDesignYear": 1993,
+    "category": "Script & handwriting",
+    "subtype": "Formal / calligraphic",
+    "tags": [
+      "Calligraphic",
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Kris Holmes)",
+        "url": "https://en.wikipedia.org/wiki/Kris_Holmes"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/13824/apple-chancery"
+      }
+    ]
+  },
+  {
+    "family": "Apple Color Emoji",
+    "summary": "The color font that draws every emoji on Apple devices, with glossy, richly shaded pictures of faces, objects, animals and flags. It's what you see whenever you type an emoji on a Mac, iPhone or iPad.",
+    "history": "The first version shipped with iPhone OS 2.2 in November 2008 with 471 emoji, designed by Raymond Sepulveda, Angela Guzman and Ollie Wagner, and was initially limited to Japanese iPhones. It has since grown to thousands of emoji as Unicode added new characters, and most designs were refreshed in iOS 10.2 in 2016.",
+    "designers": "Apple Inc. (original set by Raymond Sepulveda, Angela Guzman, Ollie Wagner)",
+    "originalDesignYear": 2008,
+    "category": "Symbols & pictographs",
+    "subtype": "Emoji",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Apple_Color_Emoji"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/10884/apple-color-emoji"
+      }
+    ]
+  },
+  {
+    "family": "Apple Symbols",
+    "summary": "A utility font covering many of Unicode's symbol blocks, including arrows, mathematical operators and braille, plus historic scripts such as Runic and Ogham. It mostly works behind the scenes as a fallback when other fonts lack a symbol.",
+    "history": "Apple Symbols was introduced in Mac OS X 10.3 Panther in 2003 as a TrueType font intended to cover characters defined as symbols in the Unicode Standard. Since Mac OS X 10.5 it has been installed as an essential system font.",
+    "designers": "Apple Inc.",
+    "originalDesignYear": 2003,
+    "category": "Symbols & pictographs",
+    "subtype": "Math & technical",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Apple_Symbols"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/76355/apple-symbols"
+      }
+    ]
+  },
+  {
+    "family": "Arial",
+    "summary": "One of the world's most familiar sans serifs, a neo-grotesque with slightly softer curves and angled stroke endings. It's a dependable, neutral choice for documents, presentations and the web.",
+    "history": "Robin Nicholas and Patricia Saunders designed Arial for Monotype in 1982. It shares Helvetica's character widths, so documents can switch between the two without reflowing, which is why the two are often confused. Its inclusion in Windows from 3.1 onward made it ubiquitous, and Mac OS X was the first Mac system to include it.",
+    "designers": "Robin Nicholas, Patricia Saunders (Monotype)",
+    "originalDesignYear": 1982,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arial"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/arial"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/4869/arial"
+      }
+    ]
+  },
+  {
+    "family": "Arial Black",
+    "summary": "The extra-heavy member of the Arial family, with thick strokes and tight counters that make it very dense and loud. It's best for short headlines, posters and signs rather than text.",
+    "history": "Arial Black was designed by Robin Nicholas and Patricia Saunders as part of Monotype's Arial family. Wikipedia notes it is especially heavy because it was first drawn as a bitmap, where the bold stroke width jumped from one pixel to two. It was part of Microsoft's Core Fonts for the Web and ships with macOS.",
+    "designers": "Robin Nicholas, Patricia Saunders (Monotype)",
+    "originalDesignYear": null,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Heavy / black",
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arial#Arial_variants"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/arial-black"
+      }
+    ]
+  },
+  {
+    "family": "Arial Narrow",
+    "summary": "A condensed version of Arial that fits more text into a narrow column while keeping Arial's familiar look. Handy for tables, forms, labels and anywhere space is tight.",
+    "history": "Arial Narrow was designed by Robin Nicholas and Patricia Saunders as part of Monotype's original Arial family, alongside Arial Black and Arial Rounded MT Bold. It comes in regular, bold and italic styles and is one of the Arial variants bundled with macOS.",
+    "designers": "Robin Nicholas, Patricia Saunders (Monotype)",
+    "originalDesignYear": null,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Narrow / condensed",
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arial#Arial_variants"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/arial-narrow"
+      }
+    ]
+  },
+  {
+    "family": "Arial Rounded MT Bold",
+    "summary": "A bold Arial with rounded stroke ends, which gives it a softer, friendlier and more informal feel. It works well for headings, children's material, signage and playful branding.",
+    "history": "Arial Rounded was designed by Robin Nicholas and Patricia Saunders for Monotype in 1993. It was originally available only in this bold weight; lighter weights appeared later as retail fonts. macOS ships the bold weight.",
+    "designers": "Robin Nicholas, Patricia Saunders (Monotype)",
+    "originalDesignYear": 1993,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Rounded",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arial#Arial_variants"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/arial-rounded-mt"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/4871/arial-rounded"
+      }
+    ]
+  },
+  {
+    "family": "Arial Unicode MS",
+    "summary": "An expanded Arial with tens of thousands of glyphs, covering a large part of Unicode including Latin, Greek, Cyrillic, Hebrew, Arabic, Thai, Devanagari, Chinese, Japanese and Korean. It's useful as a catch-all font when you need many scripts in one file.",
+    "history": "Monotype produced Arial Unicode MS for Microsoft Office as an extended version of Arial, covering the characters of Unicode 2.1; Wikipedia gives its release as 1998. It shipped with Office until 2016 and was for a time the most widely distributed pan-Unicode font. Apple has bundled it with Mac OS X since version 10.5.",
+    "designers": "Robin Nicholas, Patricia Saunders (original Arial); Monotype Type Drawing Office (extended glyphs)",
+    "originalDesignYear": 1998,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Pan-Unicode / multi-script"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Arial_Unicode_MS"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/arial-unicode-ms"
+      }
+    ]
+  },
+  {
+    "family": "Avenir",
+    "summary": "A geometric sans serif that softens the strict circles of 1920s designs like Futura, making it warmer and easier to read in longer text. It's popular for branding, signage and clean modern layouts.",
+    "history": "Adrian Frutiger designed Avenir in 1987 and Linotype released it in 1988; the name is French for \"future.\" Frutiger called it the hardest typeface he ever worked on and one of his finest. Apple has bundled Avenir with macOS and iOS since 2012.",
+    "designers": "Adrian Frutiger",
+    "originalDesignYear": 1988,
+    "category": "Sans serif",
+    "subtype": "Geometric",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Avenir_(typeface)"
+      }
+    ]
+  },
+  {
+    "family": "Avenir Next",
+    "summary": "An expanded, modernized Avenir with more weights, true italics, small caps and other typographic features. A versatile geometric sans for interfaces, branding and editorial work.",
+    "history": "Between 2004 and 2007 Adrian Frutiger reworked Avenir with Linotype's in-house designer Akira Kobayashi, producing Avenir Next with six weights in normal and condensed widths and conventional weight names. Apple has bundled Avenir Next with macOS (from Mountain Lion) and iOS.",
+    "designers": "Adrian Frutiger, Akira Kobayashi",
+    "originalDesignYear": 2004,
+    "category": "Sans serif",
+    "subtype": "Geometric",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Avenir_(typeface)#Avenir_Next"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3770/avenir-next"
+      }
+    ]
+  },
+  {
+    "family": "Avenir Next Condensed",
+    "summary": "The narrow width of Avenir Next, keeping its clean geometric look while fitting more text on a line. Useful for headlines, tables and tight layouts.",
+    "history": "Avenir Next was developed between 2004 and 2007 by Adrian Frutiger and Akira Kobayashi at Linotype, with a condensed width included from the start alongside the normal width. Apple ships the condensed styles with macOS as a separate family.",
+    "designers": "Adrian Frutiger, Akira Kobayashi",
+    "originalDesignYear": 2004,
+    "category": "Sans serif",
+    "subtype": "Geometric",
+    "tags": [
+      "Narrow / condensed"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Avenir_(typeface)#Avenir_Next"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3770/avenir-next"
+      }
+    ]
+  },
+  {
+    "family": "Baskerville",
+    "summary": "A crisp, elegant transitional serif with sharper contrast between thick and thin strokes than earlier book faces. It remains a favorite for books and refined, classic-looking text.",
+    "history": "John Baskerville designed the original in 1757 in Birmingham, England, with punches cut by John Handy, as a refinement of the old-style types of William Caslon. The version on the Mac is Monotype Baskerville, a revival that Monotype first cut for hot-metal typesetting in 1923.",
+    "designers": "John Baskerville (original); Monotype (revival)",
+    "originalDesignYear": 1757,
+    "category": "Serif",
+    "subtype": "Transitional",
+    "tags": [
+      "Historical / antique"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Baskerville"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/7842/monotype-baskerville"
+      }
+    ]
+  },
+  {
+    "family": "Big Caslon",
+    "summary": "A high-contrast display serif based on the largest, most dramatic sizes of Caslon's 18th-century types. It's meant for large sizes such as headlines and titles, not body text.",
+    "history": "Matthew Carter designed Big Caslon, published by his company Carter & Cone in 1994, inspired by the \"funkiness\" of the three largest type sizes from the Caslon foundry (one probably cut earlier by Joseph Moxon). Apple bundles the standard weight with macOS, including small caps and alternates such as the long s; Carter added bold and black weights in 2014.",
+    "designers": "Matthew Carter",
+    "originalDesignYear": 1994,
+    "category": "Serif",
+    "subtype": "Old-style",
+    "tags": [
+      "Historical / antique"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Caslon#Big_Caslon_(1994)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/555/big-caslon"
+      }
+    ]
+  },
+  {
+    "family": "Bodoni 72",
+    "summary": "A Didone serif with extreme contrast between hairline and heavy strokes, flat unbracketed serifs and a vertical stress. It looks elegant and fashionable at headline sizes, as in magazines and luxury branding.",
+    "history": "This is ITC Bodoni Seventy-Two, the display size of ITC's 1994 Bodoni revival, made by a design team art-directed by Sumner Stone and based on Giambattista Bodoni's own large types from his Manuale Tipografico. The family was issued in three optical sizes (6, 12 and 72 point), and this 72-point display cut is the one Apple includes.",
+    "designers": "Sumner Stone, Janice Prescott Fishman (ITC design team); after Giambattista Bodoni",
+    "originalDesignYear": 1994,
+    "category": "Serif",
+    "subtype": "Didone / modern",
+    "tags": [
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Bodoni)",
+        "url": "https://en.wikipedia.org/wiki/Bodoni"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/15217/itc-bodoni-seventy-two"
+      }
+    ]
+  },
+  {
+    "family": "Bodoni 72 Oldstyle",
+    "summary": "The same high-contrast ITC Bodoni 72 design, but with old-style (text) figures that rise and fall like lowercase letters. It's good for elegant text where numbers should blend in.",
+    "history": "Part of ITC's 1994 Bodoni revival, art-directed by Sumner Stone and based on Giambattista Bodoni's large types. macOS ships Bodoni 72's book, italic and bold styles in separate families with lining figures and with old-style text figures; this family has the old-style ones.",
+    "designers": "Sumner Stone, Janice Prescott Fishman (ITC design team); after Giambattista Bodoni",
+    "originalDesignYear": 1994,
+    "category": "Serif",
+    "subtype": "Didone / modern",
+    "tags": [
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Bodoni)",
+        "url": "https://en.wikipedia.org/wiki/Bodoni"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/15217/itc-bodoni-seventy-two"
+      }
+    ]
+  },
+  {
+    "family": "Bodoni 72 Smallcaps",
+    "summary": "The small-caps version of ITC Bodoni 72, where lowercase letters are drawn as smaller capitals. It's useful for elegant headings, names and formal lettering.",
+    "history": "Part of ITC's 1994 Bodoni revival, art-directed by Sumner Stone and based on Giambattista Bodoni's large types. Apple ships the small caps as their own family alongside Bodoni 72, Bodoni 72 Oldstyle and Bodoni Ornaments.",
+    "designers": "Sumner Stone, Janice Prescott Fishman (ITC design team); after Giambattista Bodoni",
+    "originalDesignYear": 1994,
+    "category": "Serif",
+    "subtype": "Didone / modern",
+    "tags": [
+      "Caps / small caps",
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Bodoni)",
+        "url": "https://en.wikipedia.org/wiki/Bodoni"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/15217/itc-bodoni-seventy-two"
+      }
+    ]
+  },
+  {
+    "family": "Bodoni Ornaments",
+    "summary": "A set of classical printer's ornaments and decorative motifs mapped to the keyboard. Use them to separate sections of text or to add a period flourish to a layout.",
+    "history": "Sumner Stone designed ITC Bodoni Ornaments, released by ITC in 1995 as a companion to ITC Bodoni. The ornaments are based on those in Bodoni's Manuale Tipografico, the specimen of his work published by his widow in 1818.",
+    "designers": "Sumner Stone",
+    "originalDesignYear": 1995,
+    "category": "Symbols & pictographs",
+    "subtype": "Dingbats / pictographs",
+    "tags": [
+      "Historical / antique"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/113131/itc-bodoni-ornaments"
+      },
+      {
+        "label": "MyFonts",
+        "url": "https://www.myfonts.com/collections/bodoni-ornaments-font-itc/"
+      }
+    ]
+  },
+  {
+    "family": "Bradley Hand",
+    "summary": "An informal script based on real handwriting, as if written with a felt-tip pen. It's friendly and legible for notes, cards and casual headings.",
+    "history": "ITC Bradley Hand is based on the handwriting of British lettering artist Richard Bradley and was released by ITC in 1995 in regular and bold weights. Apple ships it with macOS.",
+    "designers": "Richard Bradley",
+    "originalDesignYear": 1995,
+    "category": "Script & handwriting",
+    "subtype": "Casual handwriting",
+    "tags": [
+      "Handwritten",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3280/itc-bradley-hand"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/bradley-hand-itc"
+      }
+    ]
+  },
+  {
+    "family": "Brush Script MT",
+    "summary": "A connected script that looks like fast lettering done with an ink brush, with deliberately irregular lowercase letters. It has a strong mid-century advertising flavor and works best for short display text.",
+    "history": "Robert E. Smith designed Brush Script for American Type Founders in 1942, and it became hugely popular in advertising and signage through the 1950s. Brush Script MT is Monotype's digital version, distributed with Microsoft Office and bundled with macOS.",
+    "designers": "Robert E. Smith",
+    "originalDesignYear": 1942,
+    "category": "Script & handwriting",
+    "subtype": "Brush / marker",
+    "tags": [
+      "Brush / marker",
+      "Historical / antique"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brush_Script"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/brush-script-mt"
+      }
+    ]
+  },
+  {
+    "family": "Canela Text",
+    "summary": "A graceful serif that sits between serif and sans: strokes end in subtle flares instead of full serifs. This text version is sturdier than the original display Canela, so it works for body copy while keeping its elegance.",
+    "history": "Miguel Reyes designed Canela for Commercial Type in 2016 as a display face that began as an interpretation of Caslon. When designers started using it at small sizes, Reyes added Canela Text and Canela Deck optical sizes, released in June 2018. Apple offers Canela and Canela Text as downloadable fonts for macOS.",
+    "designers": "Miguel Reyes (Commercial Type)",
+    "originalDesignYear": 2018,
+    "category": "Serif",
+    "subtype": "Contemporary text serif",
+    "tags": [
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Commercial Type",
+        "url": "https://commercialtype.com/catalog/canela"
+      },
+      {
+        "label": "Commercial Type (release news)",
+        "url": "https://commercialtype.com/news/new_release_canela_text_and_deck"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/42363/canela"
+      }
+    ]
+  },
+  {
+    "family": "Chalkboard",
+    "summary": "A casual, rounded hand-lettered font that is often compared to Comic Sans. Good for classroom materials, kids' projects and friendly informal notes.",
+    "history": "Apple released Chalkboard in 2003 with Mac OS X 10.3 Panther and the 10.2.8 update. Fonts In Use describes it as Apple's follower of Microsoft's Comic Sans, derived from the heavier Apple Casual; the two are similar in style but not metrically compatible.",
+    "designers": "Apple Inc.",
+    "originalDesignYear": 2003,
+    "category": "Script & handwriting",
+    "subtype": "Casual handwriting",
+    "tags": [
+      "Handwritten",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/10670/chalkboard"
+      },
+      {
+        "label": "Apple Developer",
+        "url": "https://developer.apple.com/fonts/system-fonts/"
+      }
+    ]
+  },
+  {
+    "family": "Chalkboard SE",
+    "summary": "A companion to Chalkboard with the same relaxed, hand-lettered look, available in Light, Regular and Bold. It's a friendly choice for informal text, children's content and notes.",
+    "history": "Chalkboard SE is a related Apple family in the Chalkboard style, with copyright dates running from 2003 to 2010. Apple ships it as a system font on both macOS and iOS.",
+    "designers": "Apple Inc.",
+    "originalDesignYear": null,
+    "category": "Script & handwriting",
+    "subtype": "Casual handwriting",
+    "tags": [
+      "Handwritten",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Apple Developer",
+        "url": "https://developer.apple.com/fonts/system-fonts/"
+      }
+    ]
+  },
+  {
+    "family": "Chalkduster",
+    "summary": "A handwritten font with a rough, dusty texture that imitates chalk on a blackboard. It's great for school themes, menus and playful posters at large sizes.",
+    "history": "Chalkduster was designed for Apple in 2008 and first included in Mac OS X 10.6 Snow Leopard in 2009. It is a system font on both macOS and iOS.",
+    "designers": "Apple Inc.",
+    "originalDesignYear": 2009,
+    "category": "Display & decorative",
+    "subtype": "Textured / novelty",
+    "tags": [
+      "Textured / chalk",
+      "Handwritten",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/10672/chalkduster"
+      },
+      {
+        "label": "Apple Developer",
+        "url": "https://developer.apple.com/fonts/system-fonts/"
+      }
+    ]
+  },
+  {
+    "family": "Charter",
+    "summary": "A sturdy, highly legible serif with simplified shapes and slab-like touches, originally tuned for low-resolution printers. It makes a comfortable, no-nonsense choice for long reading.",
+    "history": "Matthew Carter designed Charter for Bitstream in 1987, basing it on the 18th-century types of Pierre-Simon Fournier and using a deliberately economical structure for the low-memory printers of the day. Bitstream donated a version to the X Consortium in 1992, and an expanded Charter was added as a macOS system font in OS X 10.13 High Sierra.",
+    "designers": "Matthew Carter (Bitstream)",
+    "originalDesignYear": 1987,
+    "category": "Serif",
+    "subtype": "Transitional",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bitstream_Charter"
+      }
+    ]
+  },
+  {
+    "family": "Cochin",
+    "summary": "A delicate French serif with a small x-height and long ascenders, based on 18th-century copperplate engraving. It gives text a graceful, literary feel and suits book covers and elegant headings.",
+    "history": "Georges Peignot designed Cochin for the Paris foundry G. Peignot et Fils around 1912, basing it on the engravings of the 18th-century artist Charles-Nicolas Cochin. Matthew Carter adapted and expanded it for Linotype in 1977, and that version is the one shipped with macOS.",
+    "designers": "Georges Peignot; Matthew Carter (1977 Linotype version)",
+    "originalDesignYear": 1912,
+    "category": "Serif",
+    "subtype": "Transitional",
+    "tags": [
+      "Historical / antique",
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cochin_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3865/cochin"
+      }
+    ]
+  },
+  {
+    "family": "Comic Sans MS",
+    "summary": "An informal, non-connecting script inspired by the hand lettering in comic book speech balloons. It's casual and very legible, and is popular in schools and children's materials.",
+    "history": "Vincent Connare designed Comic Sans for Microsoft in 1994 and it was first shipped with the Windows 95 Plus! pack. It became famous both for its huge popularity and for criticism of its overuse in formal settings. It was part of Microsoft's Core Fonts for the Web and is bundled with macOS.",
+    "designers": "Vincent Connare",
+    "originalDesignYear": 1994,
+    "category": "Script & handwriting",
+    "subtype": "Casual handwriting",
+    "tags": [
+      "Handwritten",
+      "Playful / casual",
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Comic_Sans"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/comic-sans-ms"
+      }
+    ]
+  },
+  {
+    "family": "Copperplate",
+    "summary": "A wide, all-caps typeface with tiny pointed serifs that looks like engraved lettering on stationery. It's classic for business cards, letterheads and signs for law firms and banks.",
+    "history": "Frederic W. Goudy designed Copperplate Gothic for American Type Founders beginning in 1901, at the initiative of ATF's Clarence Marder, and drew it in capitals only for headings. Despite the \"Gothic\" name it has small glyphic serifs. The Mac version, called simply Copperplate, comes from Linotype and Adobe.",
+    "designers": "Frederic W. Goudy; Clarence C. Marder",
+    "originalDesignYear": 1901,
+    "category": "Display & decorative",
+    "subtype": "Engraved / titling",
+    "tags": [
+      "Caps / small caps",
+      "Wide / extended",
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Copperplate_Gothic"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3895/copperplate-gothic"
+      }
+    ]
+  },
+  {
+    "family": "Courier New",
+    "summary": "A thin, monospaced slab serif that looks like typewriter output. It's the classic choice for screenplays, code samples and anything meant to look typed.",
+    "history": "Courier was designed by Howard \"Bud\" Kettler for IBM typewriters in the mid-1950s. Courier New is Monotype's digital version, which looks thin because it was digitized directly from the IBM Selectric golf ball without the extra weight of an ink ribbon. It shipped with Windows 3.1, was part of Microsoft's Core Fonts for the Web, and is bundled with macOS.",
+    "designers": "Howard Kettler (original Courier); Monotype (Courier New)",
+    "originalDesignYear": null,
+    "category": "Monospace",
+    "subtype": "Typewriter",
+    "tags": [
+      "Typewriter",
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Courier_(typeface)#Courier_New"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/courier-new"
+      }
+    ]
+  },
+  {
+    "family": "DIN Alternate",
+    "summary": "A bold, no-nonsense sans serif from the German DIN industrial standard, with straightforward shapes built for road signs and technical labels. It gives a clean, engineered look to numbers, headings and interfaces.",
+    "history": "The DIN 1451 lettering was defined by the German standards body DIN in 1931 for signage, traffic signs and technical drawings. Linotype's digital DIN typefaces followed in the 1980s and were released with Adobe in 1990. DIN Alternate Bold is a regular-width bold DIN that Apple bundles with macOS and iOS, with Latin, Greek and Cyrillic support.",
+    "designers": "Deutsches Institut für Normung (standard); H. Berthold AG and Linotype (digital version)",
+    "originalDesignYear": 1931,
+    "category": "Sans serif",
+    "subtype": "Industrial / DIN",
+    "tags": [
+      "Signage / industrial"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DIN_1451"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/1149/din-1451"
+      }
+    ]
+  },
+  {
+    "family": "DIN Condensed",
+    "summary": "A tall, narrow bold sans from the DIN industrial tradition. It's great for compact headlines, labels and data displays.",
+    "history": "DIN 1451 was defined by the German standards body DIN in 1931 and included a condensed (Engschrift) style alongside the medium width. Linotype digitized the DIN designs in the 1980s, and Apple bundles this bold condensed version with macOS and iOS.",
+    "designers": "Deutsches Institut für Normung (standard); Linotype (digital version)",
+    "originalDesignYear": 1931,
+    "category": "Sans serif",
+    "subtype": "Industrial / DIN",
+    "tags": [
+      "Narrow / condensed",
+      "Signage / industrial"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/DIN_1451"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/1149/din-1451"
+      }
+    ]
+  },
+  {
+    "family": "Didot",
+    "summary": "A high-contrast French Didone serif with hairline strokes and a strong vertical stress. It looks refined and glamorous at large sizes, which is why it's so common in fashion magazines.",
+    "history": "The Didot typefaces were developed by the French Didot family of printers and punchcutters between 1784 and 1811, and are among the first \"modern\" or Didone faces. The version bundled with macOS is Adrian Frutiger's revival for Linotype (1991), intended for display use rather than body text.",
+    "designers": "Firmin Didot (original); Adrian Frutiger (Linotype revival)",
+    "originalDesignYear": 1784,
+    "category": "Serif",
+    "subtype": "Didone / modern",
+    "tags": [
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Didot_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/17666/linotype-didot"
+      }
+    ]
+  },
+  {
+    "family": "Futura",
+    "summary": "A geometric sans serif built from near-perfect circles, triangles and straight lines, with tall ascenders and a crisp modernist feel. It's a staple for logos, posters and bold headlines.",
+    "history": "Paul Renner designed Futura and the Bauer foundry (Bauersche Gießerei) released it in 1927, marketing it as \"the typeface of our time.\" Inspired by the geometric spirit of the Bauhaus era, it has remained popular ever since; a limited version of the Futura ND digitization is bundled with macOS.",
+    "designers": "Paul Renner",
+    "originalDesignYear": 1927,
+    "category": "Sans serif",
+    "subtype": "Geometric",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Futura_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/4/futura"
+      }
+    ]
+  },
+  {
+    "family": "Galvji",
+    "summary": "A clean sans serif designed to support the Cherokee script, with matching Latin letters in a simple modern style. It's mainly there so Cherokee text displays properly on Apple devices.",
+    "history": "Galvji was made by Apple Inc. and Michael Everson, a specialist in Unicode script encoding, and is bundled with macOS and iOS to support Cherokee. The font's copyright dates from 2015.",
+    "designers": "Apple Inc., Michael Everson",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Other world script",
+    "tags": [],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/243117/galvji"
+      },
+      {
+        "label": "Apple Developer",
+        "url": "https://developer.apple.com/fonts/system-fonts/"
+      }
+    ]
+  },
+  {
+    "family": "Geneva",
+    "summary": "A simple, friendly neo-grotesque sans serif from the earliest days of the Macintosh. It's clear and readable on screen and has a nostalgic classic-Mac feel.",
+    "history": "Susan Kare designed Geneva as one of the original bitmap \"city\" fonts for the Macintosh in 1984. The later TrueType outline version was created by Kris Holmes and Charles Bigelow, and it's one of the oldest fonts still shipped with macOS.",
+    "designers": "Susan Kare; Kris Holmes and Charles Bigelow (TrueType outlines)",
+    "originalDesignYear": 1984,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geneva_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/19929/geneva"
+      }
+    ]
+  },
+  {
+    "family": "Georgia",
+    "summary": "A warm, sturdy serif designed to stay elegant and legible on screen, even at small sizes. A long-time favorite for websites and comfortable reading.",
+    "history": "Matthew Carter designed Georgia for Microsoft in 1993, with hinting by Tom Rickner, drawing on 19th-century Scotch Roman designs; Microsoft released it in 1996 as part of its Core Fonts for the Web. Its name comes from a tabloid headline, \"Alien heads found in Georgia.\"",
+    "designers": "Matthew Carter",
+    "originalDesignYear": 1996,
+    "category": "Serif",
+    "subtype": "Transitional",
+    "tags": [
+      "Web-safe classic",
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Georgia_(typeface)"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/georgia"
+      }
+    ]
+  },
+  {
+    "family": "Gill Sans",
+    "summary": "A humanist sans serif with classical Roman proportions and a distinctly British character. It's often used for signage, book covers and branding.",
+    "history": "Eric Gill designed Gill Sans, which Monotype released in 1928; it grew out of Edward Johnston's 1916 London Underground lettering, which Gill had helped develop. It was soon adopted by the London and North Eastern Railway and Penguin Books, and is sometimes called \"the British Helvetica.\" A basic set ships with macOS.",
+    "designers": "Eric Gill",
+    "originalDesignYear": 1928,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gill_Sans"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/45/gill-sans"
+      }
+    ]
+  },
+  {
+    "family": "Helvetica",
+    "summary": "The quintessential Swiss neo-grotesque sans serif: neutral, tightly spaced and solid, with a large x-height. It's everywhere, from corporate logos and transit signs to user interfaces.",
+    "history": "Max Miedinger designed it in 1956–1957 under Eduard Hoffmann at the Haas Type Foundry in Switzerland, where it was called Neue Haas Grotesk; it was renamed Helvetica (Latin for \"Swiss\") when adapted for Linotype in 1959–1960. Linotype licensed it to Apple, which led to its inclusion on Macintosh computers, and it has long been a core Mac font.",
+    "designers": "Max Miedinger, Eduard Hoffmann",
+    "originalDesignYear": 1957,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Helvetica"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/44/helvetica"
+      }
+    ]
+  }
+]

@@ -1,0 +1,996 @@
+[
+  {
+    "family": "Helvetica Neue",
+    "summary": "A cleaner, more consistent version of Helvetica, the neutral Swiss sans serif. It works for almost anything, from signage and branding to interface text.",
+    "history": "Linotype redrew Helvetica in 1983 as Neue Helvetica. The work was done at its D. Stempel AG subsidiary, with Erik Spiekermann as design consultant. The redesign gave every weight the same cap height and brought the widths and weights into one numbered system. Apple made it the iPhone system font with the iPhone 4 in 2010 and used it as the macOS system font in OS X Yosemite (2014), then replaced it with San Francisco in 2015.",
+    "designers": "Linotype / D. Stempel AG (after Max Miedinger and Eduard Hoffmann's Helvetica)",
+    "originalDesignYear": 1983,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Helvetica)",
+        "url": "https://en.wikipedia.org/wiki/Helvetica"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3483/neue-helvetica"
+      }
+    ]
+  },
+  {
+    "family": "Herculanum",
+    "summary": "A capitals-only display face with broad letters and thin strokes that recall ancient Roman writing. It suits titles and anything with a classical or mythic feel.",
+    "history": "Adrian Frutiger designed Herculanum for Linotype's 1990 'Type before Gutenberg' series, which revived pre-printing letter styles. It is named after Herculaneum, the Roman town buried by Vesuvius, and draws on Roman writing of the 1st century.",
+    "designers": "Adrian Frutiger",
+    "originalDesignYear": 1990,
+    "category": "Display & decorative",
+    "subtype": "Historical / antique",
+    "tags": [
+      "Historical / antique",
+      "Caps / small caps"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3430/herculanum"
+      },
+      {
+        "label": "MyFonts",
+        "url": "https://www.myfonts.com/collections/herculanum-font-linotype"
+      }
+    ]
+  },
+  {
+    "family": "Hoefler Text",
+    "summary": "A warm old-style serif for book-like body text, with real small caps, old-style figures, swashes and a matching ornament font. It gives documents a classic, literary look.",
+    "history": "Jonathan Hoefler designed it for Apple, which released it in 1991 to show off its advanced type technology. It takes cues from the types of Miklós Kis (Janson) and Jean Jannon (Garamond No. 3). It has come with every Mac since System 7.5 and helped make features like ligatures and small caps familiar to everyday users.",
+    "designers": "Jonathan Hoefler",
+    "originalDesignYear": 1991,
+    "category": "Serif",
+    "subtype": "Old-style",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hoefler_Text"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/10167/hoefler-text"
+      }
+    ]
+  },
+  {
+    "family": "Impact",
+    "summary": "A very heavy, tightly condensed sans serif with a huge x-height, made to grab attention in headlines. It's best known today as the classic meme caption font.",
+    "history": "Geoffrey Lee, an advertising design director, designed Impact in 1965 for the Stephenson Blake foundry in Sheffield. It was a British answer to bold condensed German faces like Schmalfette Grotesk. Microsoft added it to its Core fonts for the Web in 1996, which made it available almost everywhere.",
+    "designers": "Geoffrey Lee",
+    "originalDesignYear": 1965,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Narrow / condensed",
+      "Heavy / black",
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Impact_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/4983/impact"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/impact"
+      }
+    ]
+  },
+  {
+    "family": "InaiMathi",
+    "summary": "A Tamil font with matching Latin letters. It's made for reading and writing Tamil on the Mac.",
+    "history": "InaiMathi comes from Murasu Systems of Malaysia, a company that specializes in fonts for South and Southeast Asian scripts, and its font data credits Muthu Nedumaran. Apple includes it with macOS for the Tamil language.",
+    "designers": "Muthu Nedumaran (Murasu Systems)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Apple: Fonts included with macOS",
+        "url": "https://support.apple.com/en-us/120414"
+      },
+      {
+        "label": "Murasu",
+        "url": "https://murasu.com/"
+      }
+    ]
+  },
+  {
+    "family": "Lucida Grande",
+    "summary": "A clear humanist sans serif made to stay readable at small sizes on screen. For many people it is the look of classic Mac OS X menus and dialogs.",
+    "history": "Lucida Grande is a version of Lucida Sans, part of the Lucida family that Charles Bigelow and Kris Holmes began releasing in 1984, expanded to cover Latin, Greek, Cyrillic, Arabic, Hebrew and Thai. It was the Mac OS X interface font from 2000 until OS X Yosemite switched to Helvetica Neue in 2014.",
+    "designers": "Charles Bigelow and Kris Holmes",
+    "originalDesignYear": null,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [
+      "Screen / UI",
+      "Pan-Unicode / multi-script"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lucida_Grande"
+      },
+      {
+        "label": "Fonts In Use (Lucida Sans)",
+        "url": "https://fontsinuse.com/typefaces/1027/lucida-sans"
+      }
+    ]
+  },
+  {
+    "family": "Luminari",
+    "summary": "A medieval-style calligraphic face mixing rounded Carolingian letters with ornate Gothic-flavored capitals. It suits fantasy titles, game maps and storybook headings.",
+    "history": "Philip Bouwsma designed Luminari, and Canada Type published it in 2008. It blends manuscript hands from the ninth to the fifteenth centuries, with capitals based on versals from medieval psalters. Apple added it to macOS.",
+    "designers": "Philip Bouwsma",
+    "originalDesignYear": 2008,
+    "category": "Display & decorative",
+    "subtype": "Historical / antique",
+    "tags": [
+      "Historical / antique",
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/23054/luminari"
+      },
+      {
+        "label": "MyFonts",
+        "url": "https://www.myfonts.com/collections/luminari-font-canada-type"
+      }
+    ]
+  },
+  {
+    "family": "Marker Felt",
+    "summary": "A casual, hand-lettered face that looks like it was drawn with a felt-tip marker. It works for notes, kids' materials and friendly signs.",
+    "history": "Pat Snyder designed Marker Felt, with copyright dates from 1992. Apple includes it in macOS in two styles, Thin and Wide, and it was one of the original font choices in Apple's Notes app.",
+    "designers": "Pat Snyder",
+    "originalDesignYear": 1992,
+    "category": "Script & handwriting",
+    "subtype": "Brush / marker",
+    "tags": [
+      "Handwritten",
+      "Brush / marker",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/31848/marker-felt"
+      },
+      {
+        "label": "Apple: Fonts included with macOS",
+        "url": "https://support.apple.com/en-us/120414"
+      }
+    ]
+  },
+  {
+    "family": "Menlo",
+    "summary": "A clean monospaced sans serif for code and the Terminal, with clearly different 0/O and 1/l shapes. It was the Mac's default coding font for several years.",
+    "history": "Menlo is based on Jim Lyles's open-source Bitstream Vera Sans Mono and the DejaVu fonts built from it. Wikipedia credits Jim Lyles and Charles Bigelow for the design. Apple introduced it in Mac OS X Snow Leopard (2009) to replace Monaco as the default monospaced font, and SF Mono replaced it in 2015.",
+    "designers": "Jim Lyles and Charles Bigelow",
+    "originalDesignYear": 2009,
+    "category": "Monospace",
+    "subtype": "Coding monospace",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Menlo_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/10455/menlo"
+      }
+    ]
+  },
+  {
+    "family": "Microsoft Sans Serif",
+    "summary": "A plain, Helvetica-like sans serif made for Windows interface text. It works as a neutral UI font and helps with compatibility for documents made on Windows.",
+    "history": "It is the scalable TrueType successor to MS Sans Serif, formerly Helv, the bitmap system font of early Windows. It keeps the old font's widths so layouts don't change. Apple began bundling it with Mac OS X 10.5 Leopard in 2007.",
+    "designers": "Microsoft",
+    "originalDesignYear": null,
+    "category": "Sans serif",
+    "subtype": "Grotesque / neo-grotesque",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Microsoft_Sans_Serif"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/microsoft-sans-serif"
+      }
+    ]
+  },
+  {
+    "family": "Monaco",
+    "summary": "The Mac's original monospaced font, with easy-to-tell-apart characters and distinctive round parentheses. It's still well liked for code and terminals.",
+    "history": "Susan Kare designed Monaco as a bitmap font for the first Macintosh in 1984. Charles Bigelow and Kris Holmes later drew the TrueType outline version. It was the default monospaced font on the Mac until Menlo replaced it in 2009, and it still ships with macOS.",
+    "designers": "Susan Kare; Charles Bigelow and Kris Holmes (outline version)",
+    "originalDesignYear": 1984,
+    "category": "Monospace",
+    "subtype": "Coding monospace",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Monaco_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/24096/monaco"
+      }
+    ]
+  },
+  {
+    "family": "Noteworthy",
+    "summary": "A neat, friendly print-handwriting font. It works for casual notes, lists and cards.",
+    "history": "Noteworthy is an Apple system font in Light and Bold weights. Its copyright notice names Dan X. Solo, and Fonts In Use says it appears to be an expanded version of Tally Text, which is based on Filmotype Brooklyn. It was one of the default fonts in Apple's Notes app and can't be licensed separately.",
+    "designers": "Unknown (copyright Dan X. Solo)",
+    "originalDesignYear": null,
+    "category": "Script & handwriting",
+    "subtype": "Casual handwriting",
+    "tags": [
+      "Handwritten",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/7543/noteworthy"
+      },
+      {
+        "label": "Apple: Fonts included with macOS",
+        "url": "https://support.apple.com/en-us/120414"
+      }
+    ]
+  },
+  {
+    "family": "Optima",
+    "summary": "An elegant sans serif whose strokes flare slightly at the ends, echoing carved Roman capitals. It works for both text and titles, and is popular for cosmetics, memorials and upscale branding.",
+    "history": "Hermann Zapf designed Optima, and the D. Stempel AG foundry in Frankfurt released it in 1958. It was inspired by Renaissance lettering on tombstones Zapf saw in Florence's Santa Croce in 1950, and his first sketches were on a banknote.",
+    "designers": "Hermann Zapf",
+    "originalDesignYear": 1958,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Optima"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3359/optima"
+      }
+    ]
+  },
+  {
+    "family": "PT Mono",
+    "summary": "A free monospaced companion to PT Sans for code and tables. It covers Latin and Cyrillic.",
+    "history": "Part of ParaType's Public Types of Russian Federation project, a free family that covers the Cyrillic alphabets of Russia's minority languages as well as Latin. Alexandra Korolkova designed it with Isabella Chaeva, and it was released in 2011.",
+    "designers": "Alexandra Korolkova, Isabella Chaeva (ParaType)",
+    "originalDesignYear": 2011,
+    "category": "Monospace",
+    "subtype": "Coding monospace",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia (PT Fonts)",
+        "url": "https://en.wikipedia.org/wiki/PT_Fonts"
+      },
+      {
+        "label": "Google Fonts",
+        "url": "https://fonts.google.com/specimen/PT+Mono"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/11940/pt-mono"
+      }
+    ]
+  },
+  {
+    "family": "PT Sans",
+    "summary": "A free, friendly humanist sans serif for both Latin and Cyrillic. It works well for body text, interfaces and signs.",
+    "history": "Rospechat, part of the Russian Ministry of Communications, commissioned the PT (Public Type) fonts from ParaType for the 300th anniversary of Peter the Great's alphabet reform. The goal was to cover every Cyrillic alphabet used by Russia's minority languages. Alexandra Korolkova was the main designer, working with Olga Umpeleva under Vladimir Yefimov. PT Sans came out in 2009 and has shipped with macOS since OS X Lion.",
+    "designers": "Alexandra Korolkova, Olga Umpeleva, Vladimir Yefimov (ParaType)",
+    "originalDesignYear": 2009,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia (PT Fonts)",
+        "url": "https://en.wikipedia.org/wiki/PT_Fonts"
+      },
+      {
+        "label": "Google Fonts",
+        "url": "https://fonts.google.com/specimen/PT+Sans"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/5600/pt-sans"
+      }
+    ]
+  },
+  {
+    "family": "PT Sans Caption",
+    "summary": "A wider PT Sans with a taller x-height, made to stay legible at very small sizes. It suits captions, footnotes and small labels.",
+    "history": "Released alongside PT Sans in ParaType's free Public Type family, which was commissioned to support the Cyrillic alphabets of Russia's minority languages as well as Latin. Alexandra Korolkova was the main designer, working with Olga Umpeleva and Vladimir Yefimov.",
+    "designers": "Alexandra Korolkova, Olga Umpeleva, Vladimir Yefimov (ParaType)",
+    "originalDesignYear": 2009,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia (PT Fonts)",
+        "url": "https://en.wikipedia.org/wiki/PT_Fonts"
+      },
+      {
+        "label": "Google Fonts",
+        "url": "https://fonts.google.com/specimen/PT+Sans+Caption"
+      }
+    ]
+  },
+  {
+    "family": "PT Sans Narrow",
+    "summary": "A condensed version of PT Sans that fits more text into tight spaces. It works for headlines, tables and sidebars.",
+    "history": "Part of ParaType's free Public Type family, which covers Latin and the Cyrillic alphabets of Russia's minority languages. The narrow regular and bold styles came with the open-source PT Sans release. Alexandra Korolkova was the main designer, working with Olga Umpeleva and Vladimir Yefimov.",
+    "designers": "Alexandra Korolkova, Olga Umpeleva, Vladimir Yefimov (ParaType)",
+    "originalDesignYear": 2009,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [
+      "Narrow / condensed"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (PT Fonts)",
+        "url": "https://en.wikipedia.org/wiki/PT_Fonts"
+      },
+      {
+        "label": "Google Fonts",
+        "url": "https://fonts.google.com/specimen/PT+Sans+Narrow"
+      }
+    ]
+  },
+  {
+    "family": "PT Serif",
+    "summary": "A free, sturdy contemporary serif that pairs with PT Sans. It covers Latin and Cyrillic and reads comfortably in long text.",
+    "history": "The serif half of ParaType's Public Type project, which the Russian government's Rospechat agency commissioned to cover the Cyrillic alphabets of Russia's minority languages. Alexandra Korolkova designed it with Olga Umpeleva under Vladimir Yefimov, and it was released in 2010.",
+    "designers": "Alexandra Korolkova, Olga Umpeleva, Vladimir Yefimov (ParaType)",
+    "originalDesignYear": 2010,
+    "category": "Serif",
+    "subtype": "Contemporary text serif",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia (PT Fonts)",
+        "url": "https://en.wikipedia.org/wiki/PT_Fonts"
+      },
+      {
+        "label": "Google Fonts",
+        "url": "https://fonts.google.com/specimen/PT+Serif"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/5602/pt-serif"
+      }
+    ]
+  },
+  {
+    "family": "PT Serif Caption",
+    "summary": "A wider, taller-x-height PT Serif made for small print. It stays clear in footnotes and captions.",
+    "history": "The caption styles of ParaType's free PT Serif, part of the Public Type family that covers Latin and the Cyrillic alphabets of Russia's minority languages. Alexandra Korolkova was the main designer, working with Olga Umpeleva and Vladimir Yefimov.",
+    "designers": "Alexandra Korolkova, Olga Umpeleva, Vladimir Yefimov (ParaType)",
+    "originalDesignYear": 2010,
+    "category": "Serif",
+    "subtype": "Contemporary text serif",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia (PT Fonts)",
+        "url": "https://en.wikipedia.org/wiki/PT_Fonts"
+      },
+      {
+        "label": "Google Fonts",
+        "url": "https://fonts.google.com/specimen/PT+Serif+Caption"
+      }
+    ]
+  },
+  {
+    "family": "Palatino",
+    "summary": "A graceful old-style serif with open, calligraphic letters and flared serifs. It's readable in body text and elegant in headings, and a longtime favorite for books and résumés.",
+    "history": "Hermann Zapf designed Palatino, and the Stempel foundry released it in 1949. It was later adapted for Linotype machines. Linotype licensed it to Adobe and Apple as a standard PostScript font, which made it a fixture of desktop publishing and put it on most computers.",
+    "designers": "Hermann Zapf",
+    "originalDesignYear": 1949,
+    "category": "Serif",
+    "subtype": "Old-style",
+    "tags": [
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Palatino"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3361/palatino"
+      }
+    ]
+  },
+  {
+    "family": "Papyrus",
+    "summary": "A rough-edged, pseudo-ancient roman meant to look like it was written on papyrus. It's famous, and often mocked, for turning up everywhere from spa menus to Avatar's subtitles.",
+    "history": "Chris Costello drew Papyrus by hand with a calligraphy pen in 1982, when he was 23, and Letraset released it in 1983. It has been part of the standard macOS installation since Mac OS X 10.3 Panther (2003) and comes with Microsoft Office.",
+    "designers": "Chris Costello",
+    "originalDesignYear": 1983,
+    "category": "Display & decorative",
+    "subtype": "Historical / antique",
+    "tags": [
+      "Historical / antique",
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Papyrus_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/1076/papyrus"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/papyrus"
+      }
+    ]
+  },
+  {
+    "family": "Party LET",
+    "summary": "A wild, bouncy hand-lettered script meant for fun. It suits invitations, birthday cards and party flyers.",
+    "history": "Carol Kemp designed Party, and Letraset released it in 1993. The retail version includes many alternate characters and ligatures, and the family is now sold by ITC.",
+    "designers": "Carol Kemp",
+    "originalDesignYear": 1993,
+    "category": "Script & handwriting",
+    "subtype": "Casual handwriting",
+    "tags": [
+      "Handwritten",
+      "Playful / casual"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3492/party"
+      },
+      {
+        "label": "MyFonts",
+        "url": "https://www.myfonts.com/collections/party-font-itc"
+      }
+    ]
+  },
+  {
+    "family": "Phosphate",
+    "summary": "A chunky geometric display face in two styles, Inline (with a white line cut through each stroke) and Solid. It gives posters and headlines a bold Art Deco look.",
+    "history": "Phosphate is an unofficial digital revival of Phosphor, Jakob Erbar's bold inline titling type from the early 1920s. The Red Rooster Collection made it, and the font credits Steve Jackaman and Ashley Muir. It adds a Solid style that the original did not have.",
+    "designers": "Steve Jackaman and Ashley Muir (after Jakob Erbar's Phosphor)",
+    "originalDesignYear": null,
+    "category": "Display & decorative",
+    "subtype": "Engraved / titling",
+    "tags": [
+      "Engraved / inline",
+      "Heavy / black"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Erbar & Phosphor)",
+        "url": "https://en.wikipedia.org/wiki/Erbar"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/5969/phosphate"
+      }
+    ]
+  },
+  {
+    "family": "Proxima Nova",
+    "summary": "A hugely popular sans serif that mixes geometric roundness (like Futura) with grotesque proportions (like Akzidenz-Grotesk and Helvetica). It's a go-to for websites, apps and branding.",
+    "history": "Mark Simonson first released it as Proxima Sans, six styles published through FontHaus in 1994. He revised and greatly expanded it as Proxima Nova in 2005. Simonson's studio says it has been the most widely used commercial web font since 2010.",
+    "designers": "Mark Simonson",
+    "originalDesignYear": 2005,
+    "category": "Sans serif",
+    "subtype": "Geometric",
+    "tags": [],
+    "links": [
+      {
+        "label": "Mark Simonson Studio",
+        "url": "https://www.marksimonson.com/fonts/view/proxima-nova"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/4827/proxima-nova"
+      },
+      {
+        "label": "Wikipedia (Mark Simonson)",
+        "url": "https://en.wikipedia.org/wiki/Mark_Simonson"
+      }
+    ]
+  },
+  {
+    "family": "Publico Text",
+    "summary": "A crisp, modern newspaper serif built for comfortable long-form reading. It suits articles, reports and editorial layouts.",
+    "history": "Paul Barnes and Christian Schwartz of Commercial Type developed Publico from early work on The Guardian's 2005 redesign. They finished it for the redesign of the Lisbon newspaper Público, and it was released in 2009. Publico Text is the family's text-size member.",
+    "designers": "Paul Barnes and Christian Schwartz",
+    "originalDesignYear": 2009,
+    "category": "Serif",
+    "subtype": "Contemporary text serif",
+    "tags": [],
+    "links": [
+      {
+        "label": "Commercial Type",
+        "url": "https://commercialtype.com/catalog/publico/publico_text"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/15/publico"
+      }
+    ]
+  },
+  {
+    "family": "STIX Two Math",
+    "summary": "A comprehensive OpenType math font with thousands of symbols, operators and math alphabets that match STIX Two Text. It's built for typesetting equations and scientific papers.",
+    "history": "The STIX project was started in 1995 by scientific publishers including the AMS, AIP, APS, ACS, IEEE and Elsevier to create free fonts for technical publishing. STIX Two, a thorough redesign by Ross Mills and John Hudson of Tiro Typeworks, was released in December 2016 under the SIL Open Font License.",
+    "designers": "Ross Mills, John Hudson and Paul Hanslow (Tiro Typeworks)",
+    "originalDesignYear": 2016,
+    "category": "Symbols & pictographs",
+    "subtype": "Math & technical",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/STIX_Fonts_project"
+      },
+      {
+        "label": "STIX Fonts",
+        "url": "https://www.stixfonts.org/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/stipub/stixfonts"
+      }
+    ]
+  },
+  {
+    "family": "STIX Two Text",
+    "summary": "A Times-style text serif with a slightly larger x-height, made to pair with STIX Two Math. It's a good fit for scientific and academic writing.",
+    "history": "STIX Two was released in 2016 by the STIX Fonts project, a group of scientific publishers. It is a thorough redesign by Tiro Typeworks, loosely inspired by small-size Times New Roman, and is free under the SIL Open Font License.",
+    "designers": "Ross Mills, John Hudson and Paul Hanslow (Tiro Typeworks)",
+    "originalDesignYear": 2016,
+    "category": "Serif",
+    "subtype": "Transitional",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/STIX_Fonts_project"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/152139/stix-two"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/stipub/stixfonts"
+      }
+    ]
+  },
+  {
+    "family": "Savoye LET",
+    "summary": "A graceful, upright script with large flowing capitals and small lowercase with tall ascenders. It's made for invitations, greeting cards and personal stationery.",
+    "history": "Alan Meeks designed Savoye for Letraset in 1992 in the spirit of Art Nouveau (Jugendstil). Fonts In Use describes it as a reinterpretation of the older script Coronet.",
+    "designers": "Alan Meeks",
+    "originalDesignYear": 1992,
+    "category": "Script & handwriting",
+    "subtype": "Formal / calligraphic",
+    "tags": [
+      "Formal / elegant",
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3957/savoye"
+      },
+      {
+        "label": "MyFonts",
+        "url": "https://www.myfonts.com/collections/savoye-font-itc"
+      }
+    ]
+  },
+  {
+    "family": "SignPainter",
+    "summary": "A lively brush script that looks like hand-painted shop-window lettering. It works for signs, menus, packaging and retro headlines.",
+    "history": "macOS's SignPainter is House Script from House Industries' 1999 Sign Painter collection, designed by Ken Barber and based on traditional sign painters' lettering.",
+    "designers": "Ken Barber (House Industries)",
+    "originalDesignYear": 1999,
+    "category": "Script & handwriting",
+    "subtype": "Brush / marker",
+    "tags": [
+      "Brush / marker",
+      "Signage / industrial"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (House Industries)",
+        "url": "https://en.wikipedia.org/wiki/House_Industries"
+      },
+      {
+        "label": "Fonts In Use (House Script)",
+        "url": "https://fontsinuse.com/typefaces/7338/house-script"
+      }
+    ]
+  },
+  {
+    "family": "Skia",
+    "summary": "A slightly flared sans serif inspired by ancient Greek inscriptions. It's also an early variable font that can shift smoothly in weight and width.",
+    "history": "Matthew Carter designed Skia for Apple in 1994 as the first QuickDraw GX font, with GX variations for weight and width. The name is Greek for 'shadow'. It has shipped with the Mac since System 7.5, and Apple's GX variations later became the basis of OpenType variable fonts.",
+    "designers": "Matthew Carter (with David Berlow)",
+    "originalDesignYear": 1994,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Skia_(typeface)"
+      },
+      {
+        "label": "Carter & Cone",
+        "url": "https://carterandcone.com/font/skia/"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/28146/skia"
+      }
+    ]
+  },
+  {
+    "family": "Snell Roundhand",
+    "summary": "A classic English roundhand script with flowing joined letters and fine hairlines. It suits wedding invitations, certificates and diplomas.",
+    "history": "Matthew Carter designed Snell Roundhand for Linotype in 1966, translating the round hand of English writing master Charles Snell into type for phototypesetting. He later added heavier weights.",
+    "designers": "Matthew Carter (after Charles Snell)",
+    "originalDesignYear": 1966,
+    "category": "Script & handwriting",
+    "subtype": "Formal / calligraphic",
+    "tags": [
+      "Formal / elegant",
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Round hand)",
+        "url": "https://en.wikipedia.org/wiki/Round_hand"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/58/snell-roundhand"
+      }
+    ]
+  },
+  {
+    "family": "Symbol",
+    "summary": "A font of unaccented Greek letters and common math symbols, drawn to match Times. It's for simple math and scientific notation, not Greek text.",
+    "history": "Adobe created Symbol with its own character encoding, and it was one of the four standard fonts on every PostScript printer, starting with Apple's LaserWriter in 1985. Apple's version is credited to Bitstream, and it maps its characters to Unicode and adds the Apple logo.",
+    "designers": "Adobe (Apple version by Bitstream)",
+    "originalDesignYear": 1985,
+    "category": "Symbols & pictographs",
+    "subtype": "Math & technical",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Symbol_(typeface)"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3899/symbol"
+      }
+    ]
+  },
+  {
+    "family": "Tahoma",
+    "summary": "A narrower, tighter-spaced cousin of Verdana, built for crisp screen text. It fits a lot of words into small spaces and keeps capital I and lowercase l easy to tell apart.",
+    "history": "Matthew Carter designed Tahoma for Microsoft, drawing it first as a bitmap font and then fitting outlines around it. Fonts In Use dates it to 1994. It was the default Windows 2000 and XP interface font, and Apple began bundling it with Mac OS X 10.5 Leopard.",
+    "designers": "Matthew Carter",
+    "originalDesignYear": 1994,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [
+      "Screen / UI",
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tahoma_(typeface)"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/tahoma"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/29159/tahoma"
+      }
+    ]
+  },
+  {
+    "family": "Times New Roman",
+    "summary": "The famous compact newspaper serif, made to fit lots of readable text into narrow columns. It's still a default for documents, essays and forms.",
+    "history": "Stanley Morison of Monotype and Victor Lardent, a lettering artist at The Times, created it for The Times of London, where it debuted on 3 October 1932. The Mac version is Monotype's, the same design Microsoft ships with Windows.",
+    "designers": "Stanley Morison and Victor Lardent",
+    "originalDesignYear": 1932,
+    "category": "Serif",
+    "subtype": "Transitional",
+    "tags": [
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Times_New_Roman"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/5117/times-new-roman"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/times-new-roman"
+      }
+    ]
+  },
+  {
+    "family": "Trattatello",
+    "summary": "An italic calligraphic script based on Renaissance chancery handwriting, with elegant swash forms. It suits invitations, certificates and classical headings.",
+    "history": "Trattatello is Apple's name for P22 Operina, designed by James Grieshaber and released in 2003. It revives the writing model in Ludovico degli Arrighi's 1522 writing manual La Operina. Apple added it in OS X Yosemite.",
+    "designers": "James Grieshaber (after Ludovico degli Arrighi)",
+    "originalDesignYear": 2003,
+    "category": "Script & handwriting",
+    "subtype": "Formal / calligraphic",
+    "tags": [
+      "Calligraphic",
+      "Historical / antique"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use (P22 Operina)",
+        "url": "https://fontsinuse.com/typefaces/11114/p22-operina"
+      },
+      {
+        "label": "P22 Type Foundry",
+        "url": "https://p22.com/family-Operina"
+      },
+      {
+        "label": "Wikipedia (P22)",
+        "url": "https://en.wikipedia.org/wiki/P22_(type_foundry)"
+      }
+    ]
+  },
+  {
+    "family": "Trebuchet MS",
+    "summary": "A humanist sans serif with slightly quirky details, made to read well on screen. It's a longtime web favorite for headings and body text.",
+    "history": "Vincent Connare designed it for Microsoft in 1996 and released it free as part of the Core fonts for the Web. It is named after the medieval siege engine, suggesting a font that 'launches words across the Internet'. It was the window-title font in Windows XP and is included with macOS.",
+    "designers": "Vincent Connare",
+    "originalDesignYear": 1996,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [
+      "Web-safe classic",
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trebuchet_MS"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/trebuchet-ms"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/29814/trebuchet"
+      }
+    ]
+  },
+  {
+    "family": "Verdana",
+    "summary": "A wide, generously spaced humanist sans serif with a large x-height, built to be readable at small sizes on low-resolution screens. It's a classic web and interface font.",
+    "history": "Matthew Carter designed Verdana for Microsoft, with hand-hinting by Tom Rickner, and it was released in 1996. The name combines 'verdant' with Ana, the name of Microsoft typographer Virginia Howlett's daughter. It shipped with Windows, Office, Internet Explorer and the Mac, and has been bundled with Mac OS X since at least 10.4.",
+    "designers": "Matthew Carter (hinting by Tom Rickner)",
+    "originalDesignYear": 1996,
+    "category": "Sans serif",
+    "subtype": "Humanist",
+    "tags": [
+      "Wide / extended",
+      "Screen / UI",
+      "Web-safe classic"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Verdana"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/verdana"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/7315/verdana"
+      }
+    ]
+  },
+  {
+    "family": "Webdings",
+    "summary": "A dingbat font of web-era pictograms (weather, vehicles, buildings, media controls and more) typed with ordinary keys. It was handy for icons before image-light web design.",
+    "history": "Microsoft designed Webdings in 1997 and shipped it with Internet Explorer 4.0, then with Windows since Windows 98. Its credited designers are Vincent Connare, Sue Lightfoot, Ian Patterson and Geraldine Wade. Its pictographs were added to Unicode 7.0 in 2014, and some, like the 'man in business suit levitating', are now emoji.",
+    "designers": "Vincent Connare, Sue Lightfoot, Ian Patterson, Geraldine Wade",
+    "originalDesignYear": 1997,
+    "category": "Symbols & pictographs",
+    "subtype": "Dingbats / pictographs",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Webdings"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/webdings"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/7810/webdings"
+      }
+    ]
+  },
+  {
+    "family": "Wingdings",
+    "summary": "Microsoft's classic dingbat font of computer icons, hands, stars, arrows, zodiac signs and other symbols, typed with ordinary keys.",
+    "history": "Charles Bigelow and Kris Holmes drew the symbols in 1990–91 as Lucida Icons, Arrows and Stars. Microsoft reorganized them and released them in 1992 as Wingdings, which shipped with Windows 3.1. Apple began bundling it with Mac OS X 10.5 Leopard.",
+    "designers": "Charles Bigelow and Kris Holmes",
+    "originalDesignYear": 1992,
+    "category": "Symbols & pictographs",
+    "subtype": "Dingbats / pictographs",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wingdings"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/wingdings"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/7307/wingdings"
+      }
+    ]
+  },
+  {
+    "family": "Wingdings 2",
+    "summary": "A companion dingbat font with pointing hands, circled numbers, ampersands, interrobangs, geometric shapes and ornaments. It's useful for bullets and check boxes.",
+    "history": "Part of the Wingdings set that Charles Bigelow and Kris Holmes drew in 1990–91 and that Microsoft released in 1992. Its copyright notice credits Bigelow & Holmes and Type Solutions. It shipped with Microsoft Office and other Microsoft products.",
+    "designers": "Charles Bigelow and Kris Holmes",
+    "originalDesignYear": 1992,
+    "category": "Symbols & pictographs",
+    "subtype": "Dingbats / pictographs",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wingdings"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/wingdings"
+      }
+    ]
+  },
+  {
+    "family": "Wingdings 3",
+    "summary": "A dingbat font made almost entirely of arrows in many styles and directions, plus keyboard key symbols. It's handy for diagrams and instructions.",
+    "history": "Part of the Wingdings set that Charles Bigelow and Kris Holmes drew in 1990–91 and that Microsoft released in 1992. Its copyright notice credits Bigelow & Holmes and Type Solutions. It shipped with Microsoft Office and other Microsoft products.",
+    "designers": "Charles Bigelow and Kris Holmes",
+    "originalDesignYear": 1992,
+    "category": "Symbols & pictographs",
+    "subtype": "Dingbats / pictographs",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wingdings"
+      },
+      {
+        "label": "Microsoft Typography",
+        "url": "https://learn.microsoft.com/en-us/typography/font-list/wingdings"
+      }
+    ]
+  },
+  {
+    "family": "Zapf Dingbats",
+    "summary": "A classic set of printers' ornaments: stars, crosses, check marks, arrows, pointing hands, circled numbers and more. It's useful for bullets and decoration.",
+    "history": "Hermann Zapf drew over 1,200 sketches in 1977, and ITC chose 360 of them for ITC Zapf Dingbats in 1978. It spread widely as a built-in font on Apple's LaserWriter Plus. Its symbols are now in Unicode's Dingbats block, and it is one of the standard PDF fonts. Apple's copy carries a Galapagos Design Group copyright.",
+    "designers": "Hermann Zapf",
+    "originalDesignYear": 1978,
+    "category": "Symbols & pictographs",
+    "subtype": "Dingbats / pictographs",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zapf_Dingbats"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/7696/itc-zapf-dingbats"
+      }
+    ]
+  },
+  {
+    "family": "Zapfino",
+    "summary": "An extravagant calligraphic script with sweeping flourishes, many ligatures and alternate letters. It's best at large sizes for invitations, logos and showpiece headings.",
+    "history": "Hermann Zapf based Zapfino on a calligraphic alphabet he wrote in 1944. He developed it first with David Siegel and then with Linotype, which released it in 1998. Apple includes it in macOS and iOS, partly to show off advanced typographic features.",
+    "designers": "Hermann Zapf",
+    "originalDesignYear": 1998,
+    "category": "Script & handwriting",
+    "subtype": "Formal / calligraphic",
+    "tags": [
+      "Calligraphic",
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Zapfino"
+      },
+      {
+        "label": "Fonts In Use",
+        "url": "https://fontsinuse.com/typefaces/3353/zapfino"
+      }
+    ]
+  }
+]

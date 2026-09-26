@@ -1,0 +1,995 @@
+{
+  "categories": [
+    {
+      "name": "Serif",
+      "summary": "Typefaces with small strokes, called serifs, at the ends of letter strokes. They're the traditional choice for books, newspapers and other long reading, and they also carry a classic or literary feel.",
+      "history": "Serifs come from Roman inscriptional lettering carved in stone. A widely accepted theory, proposed by Edward Catich in 1968, holds that carvers followed brush-painted outlines that flared at the stroke ends. Printed roman types with serifs date from 1465, shortly after Gutenberg, and serif typefaces are usually grouped as Old-style, Transitional, Didone and Slab serif, in the order they appeared.",
+      "links": [
+        {
+          "label": "Wikipedia: Serif",
+          "url": "https://en.wikipedia.org/wiki/Serif"
+        },
+        {
+          "label": "Wikipedia: Vox-ATypI classification",
+          "url": "https://en.wikipedia.org/wiki/Vox-ATypI_classification"
+        }
+      ]
+    },
+    {
+      "name": "Sans serif",
+      "summary": "Typefaces without serifs, usually with fairly even stroke widths. They look clean and modern, and they're the most common style for screens, interfaces, signage and headlines.",
+      "history": "Sans-serif capitals appeared on London shop signs around 1805, drawing on classical inscriptions. William Caslon IV issued the first English sans-serif printing type around 1816. Early grotesques were mainly used for advertising. In the 20th century, geometric, humanist and neo-grotesque designs such as Futura, Gill Sans and Helvetica gradually made sans serifs mainstream for all kinds of work.",
+      "links": [
+        {
+          "label": "Wikipedia: Sans-serif",
+          "url": "https://en.wikipedia.org/wiki/Sans-serif"
+        }
+      ]
+    },
+    {
+      "name": "Monospace",
+      "summary": "Fixed-width (fixed-pitch) typefaces in which every character takes up the same horizontal space. That makes them the standard for source code, terminals, tables in plain text and screenplays.",
+      "history": "Monospaced type was the norm on typewriters and on early computer terminals, which drew text as a grid of equal-sized character cells. Even though computers can now show any font, most code editors and IDEs still default to a monospaced face because it keeps columns aligned and makes similar characters easier to tell apart.",
+      "links": [
+        {
+          "label": "Wikipedia: Monospaced font",
+          "url": "https://en.wikipedia.org/wiki/Monospaced_font"
+        }
+      ]
+    },
+    {
+      "name": "Script & handwriting",
+      "summary": "Typefaces based on the fluid strokes of handwriting, from formal pen calligraphy to casual brush and marker lettering. They're used for invitations, headings, logos and informal notes rather than long body text.",
+      "history": "Formal scripts follow the 17th- and 18th-century English writing masters. Typefaces in that style appeared in the late 18th and early 19th centuries. Casual scripts appeared in the early 20th century and multiplied with phototypesetting in the 1950s. Later, OpenType's contextual alternates made convincing connected handwriting fonts much easier to build.",
+      "links": [
+        {
+          "label": "Wikipedia: Script typeface",
+          "url": "https://en.wikipedia.org/wiki/Script_typeface"
+        },
+        {
+          "label": "Wikipedia: Calligraphy",
+          "url": "https://en.wikipedia.org/wiki/Calligraphy"
+        }
+      ]
+    },
+    {
+      "name": "Display & decorative",
+      "summary": "Typefaces meant to be used large, for titles, posters, signs and other eye-catching text, rather than for body copy. They're often eccentric, ornamented or strongly themed.",
+      "history": "For the first few centuries of printing there was little true display type. Posters and commercial printing in the late 18th and early 19th centuries brought in fat faces, slab serifs, sans serifs and new blackletter faces. Wood type and, later, phototypesetting and digital fonts made decorative type at any size cheap and common.",
+      "links": [
+        {
+          "label": "Wikipedia: Display typeface",
+          "url": "https://en.wikipedia.org/wiki/Display_typeface"
+        }
+      ]
+    },
+    {
+      "name": "Symbols & pictographs",
+      "summary": "Fonts whose glyphs are symbols rather than letters, such as ornaments and dingbats, mathematical and technical signs, emoji and braille patterns.",
+      "history": "Printers have long used ornaments, or dingbats, for borders and section breaks. In early computing, 'pi' or dingbat fonts put symbols in the slots normally used for letters, because only 256 code points were available. Unicode now gives these symbols, including emoji and braille cells, their own code points.",
+      "links": [
+        {
+          "label": "Wikipedia: Dingbat",
+          "url": "https://en.wikipedia.org/wiki/Dingbat"
+        },
+        {
+          "label": "Wikipedia: Emoji",
+          "url": "https://en.wikipedia.org/wiki/Emoji"
+        },
+        {
+          "label": "Wikipedia: Unicode",
+          "url": "https://en.wikipedia.org/wiki/Unicode"
+        }
+      ]
+    },
+    {
+      "name": "World script",
+      "summary": "Fonts designed mainly for writing systems other than the Latin alphabet, such as Arabic, Hebrew, the Indic scripts, Chinese, Japanese, Korean and many more.",
+      "history": "The Vox-ATypI classification added a 'Non-Latin' group covering all writing systems not based on the Latin alphabet, which English printers traditionally called 'exotics'. In 2021 ATypI dropped the Vox system and set up a working group to build a larger classification that covers the world's scripts.",
+      "links": [
+        {
+          "label": "Wikipedia: Writing system",
+          "url": "https://en.wikipedia.org/wiki/Writing_system"
+        },
+        {
+          "label": "Wikipedia: Vox-ATypI classification",
+          "url": "https://en.wikipedia.org/wiki/Vox-ATypI_classification#Non-Latin"
+        }
+      ]
+    }
+  ],
+  "subtypes": [
+    {
+      "category": "Serif",
+      "name": "Old-style",
+      "summary": "Renaissance-style serif types with low contrast between thick and thin strokes, a diagonal stress and bracketed serifs. They have an organic, readable texture that suits book text.",
+      "history": "Old-style type dates to 1465, when Italian printers broke away from Gutenberg's blackletter and made roman types inspired by Renaissance handwriting. Francesco Griffo's 1495 type for Aldus Manutius influenced the French Garalde faces, including Claude Garamond's, which spread across Europe from the 1530s. Revivals in the late 19th and early 20th centuries brought the style back into wide use.",
+      "examples": [
+        "Garamond",
+        "Bembo",
+        "Palatino",
+        "Hoefler Text"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Serif § Old-style",
+          "url": "https://en.wikipedia.org/wiki/Serif#Old-style"
+        },
+        {
+          "label": "Wikipedia: Garamond",
+          "url": "https://en.wikipedia.org/wiki/Garamond"
+        },
+        {
+          "label": "Wikipedia: Bembo",
+          "url": "https://en.wikipedia.org/wiki/Bembo"
+        }
+      ]
+    },
+    {
+      "category": "Serif",
+      "name": "Transitional",
+      "summary": "18th-century-style serifs that sit between old-style and Didone. They have more stroke contrast, a more vertical stress and sharper serifs, and they remain sturdy, crisp choices for text.",
+      "history": "Transitional (or baroque) faces became common in the mid-18th century and lasted until the start of the 19th. Examples include the romain du roi and the work of Pierre Simon Fournier in France. John Baskerville's 1757 type in Birmingham is the best-known English example. Many popular later designs, including Times New Roman (1932), are often described as transitional.",
+      "examples": [
+        "Baskerville",
+        "Times New Roman"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Serif § Transitional",
+          "url": "https://en.wikipedia.org/wiki/Serif#Transitional"
+        },
+        {
+          "label": "Wikipedia: Baskerville",
+          "url": "https://en.wikipedia.org/wiki/Baskerville"
+        }
+      ]
+    },
+    {
+      "category": "Serif",
+      "name": "Didone / modern",
+      "summary": "High-contrast serifs with hairline, unbracketed serifs, vertical stress and often ball terminals. They look elegant and fashionable and work best at larger sizes or on glossy paper.",
+      "history": "Didone type emerged in the late 18th century and was the standard style for general printing through the 19th century. The name, coined in 1954 for the Vox-ATypI classification, combines the names of Firmin Didot and Giambattista Bodoni, who defined the style. It was originally called 'modern' in contrast to old-style.",
+      "examples": [
+        "Bodoni",
+        "Didot",
+        "Walbaum"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Didone (typography)",
+          "url": "https://en.wikipedia.org/wiki/Didone_(typography)"
+        },
+        {
+          "label": "Wikipedia: Bodoni",
+          "url": "https://en.wikipedia.org/wiki/Bodoni"
+        },
+        {
+          "label": "Wikipedia: Didot (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Didot_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Serif",
+      "name": "Slab serif",
+      "summary": "Serif types with thick, block-like serifs, either geometric and even in weight or Clarendon-style with brackets. They're bold and sturdy, good for posters, and a common basis for typewriter faces.",
+      "history": "Slab serifs appeared in the early 19th century, around 1817, as attention-grabbing poster type, and they were also called 'Egyptian' or 'antique'. Clarendon (1845) established a more bookish model. Courier and many other monospaced typewriter faces later carried the style into offices.",
+      "examples": [
+        "Rockwell",
+        "Clarendon",
+        "Courier",
+        "American Typewriter"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Slab serif",
+          "url": "https://en.wikipedia.org/wiki/Slab_serif"
+        },
+        {
+          "label": "Wikipedia: Clarendon (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Clarendon_(typeface)"
+        },
+        {
+          "label": "Wikipedia: Rockwell (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Rockwell_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Serif",
+      "name": "Glyphic / incised",
+      "summary": "Typefaces that evoke letters chiselled or engraved in stone or metal rather than written with a pen. They often have small triangular serifs or flared strokes and put the emphasis on capitals.",
+      "history": "Glyphic (or incised) is one of the 'calligraphic' groups in the Vox-ATypI classification devised in 1954. Well-known examples include Copperplate Gothic (1901), Albertus (1932–1940), which was modelled on letters carved in bronze, and Trajan (1989), which is based on the Roman inscription on Trajan's Column.",
+      "examples": [
+        "Albertus",
+        "Copperplate Gothic",
+        "Trajan"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Vox-ATypI classification § Glyphic",
+          "url": "https://en.wikipedia.org/wiki/Vox-ATypI_classification#Glyphic"
+        },
+        {
+          "label": "Wikipedia: Albertus (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Albertus_(typeface)"
+        },
+        {
+          "label": "Wikipedia: Trajan (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Trajan_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Serif",
+      "name": "Contemporary text serif",
+      "summary": "Serif text faces from the digital era that mix historical models and are tuned for modern printers, screens and editorial use rather than following one historical style.",
+      "history": "This isn't a formal classification class. It collects recent text serifs. Matthew Carter's Charter (1987) was optimized for 300 dpi laser printers. His Georgia (1993, for Microsoft) was built to stay legible on low-resolution screens. ParaType's PT Serif (2009 onward) was made to support the Cyrillic variants used by Russia's minority languages.",
+      "examples": [
+        "Georgia",
+        "Charter",
+        "PT Serif"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Georgia (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Georgia_(typeface)"
+        },
+        {
+          "label": "Wikipedia: Bitstream Charter",
+          "url": "https://en.wikipedia.org/wiki/Bitstream_Charter"
+        },
+        {
+          "label": "Wikipedia: PT Fonts",
+          "url": "https://en.wikipedia.org/wiki/PT_Fonts"
+        }
+      ]
+    },
+    {
+      "category": "Sans serif",
+      "name": "Grotesque / neo-grotesque",
+      "summary": "Plain, low-contrast sans serifs with fairly uniform capitals and curve endings that are often horizontal. The neo-grotesque versions look neutral and dense and are workhorses for branding, signage and interfaces.",
+      "history": "Grotesques covered most 19th- and early-20th-century sans serifs, including Akzidenz-Grotesk (Berthold, 1898). The term comes from the Italian 'grottesco'. Neo-grotesques appeared with the Swiss International Typographic Style of the 1950s. Helvetica, Univers and Folio, all released in 1957, were the first of them.",
+      "examples": [
+        "Akzidenz-Grotesk",
+        "Franklin Gothic",
+        "Helvetica",
+        "Univers"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Sans-serif § Grotesque",
+          "url": "https://en.wikipedia.org/wiki/Sans-serif#Grotesque"
+        },
+        {
+          "label": "Wikipedia: Akzidenz-Grotesk",
+          "url": "https://en.wikipedia.org/wiki/Akzidenz-Grotesk"
+        },
+        {
+          "label": "Wikipedia: Helvetica",
+          "url": "https://en.wikipedia.org/wiki/Helvetica"
+        }
+      ]
+    },
+    {
+      "category": "Sans serif",
+      "name": "Humanist",
+      "summary": "Sans serifs based on Roman capitals, serif book faces and calligraphy, with open apertures and sometimes stroke modulation. They're very legible, which makes them good for text, signage and screens.",
+      "history": "Edward Johnston's 1916 London Underground alphabet and Eric Gill's Gill Sans (1928) were early examples. Hermann Zapf's Optima followed in 1958 and Adrian Frutiger's Frutiger in 1976. The genre grew in the 1980s and 1990s, partly because low-resolution displays needed legible faces such as Verdana, Tahoma and Lucida Grande.",
+      "examples": [
+        "Gill Sans",
+        "Optima",
+        "Frutiger",
+        "Verdana"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Sans-serif § Humanist",
+          "url": "https://en.wikipedia.org/wiki/Sans-serif#Humanist"
+        },
+        {
+          "label": "Wikipedia: Gill Sans",
+          "url": "https://en.wikipedia.org/wiki/Gill_Sans"
+        },
+        {
+          "label": "Wikipedia: Frutiger (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Frutiger_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Sans serif",
+      "name": "Geometric",
+      "summary": "Sans serifs built from near-perfect circles, squares and straight lines, often with a single-storey 'a' and pointed vertices. They look clean, modern and optimistic.",
+      "history": "The geometric sans came out of 1920s Germany, influenced by the Bauhaus and modernist lettering. Jakob Erbar's Erbar (c. 1925) and Paul Renner's Futura (1927) were the landmark releases. Later designs include ITC Avant Garde, Century Gothic and Adrian Frutiger's Avenir (1988), a more organic take on the style.",
+      "examples": [
+        "Futura",
+        "Avenir",
+        "Century Gothic"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Sans-serif § Geometric",
+          "url": "https://en.wikipedia.org/wiki/Sans-serif#Geometric"
+        },
+        {
+          "label": "Wikipedia: Futura (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Futura_(typeface)"
+        },
+        {
+          "label": "Wikipedia: Avenir (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Avenir_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Sans serif",
+      "name": "Industrial / DIN",
+      "summary": "Engineered, often condensed or squarish sans serifs that come from standardized technical lettering, engraving and stencils. They're built for signage, labels and a functional, technical look.",
+      "history": "The German standards body DIN published DIN 1451 in 1931 for signage, traffic signs and technical drawings. Its condensed form traces back to a 1905 Prussian railways lettering standard. It became the German road-sign face and gained wide design use after a 1990 PostScript release. Related rectilinear designs, such as Bank Gothic (1930) and Eurostile (1962), draw on engraved and stencilled industrial lettering.",
+      "examples": [
+        "DIN 1451",
+        "Eurostile",
+        "Bank Gothic",
+        "Highway Gothic"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: DIN 1451",
+          "url": "https://en.wikipedia.org/wiki/DIN_1451"
+        },
+        {
+          "label": "Wikipedia: Eurostile",
+          "url": "https://en.wikipedia.org/wiki/Eurostile"
+        },
+        {
+          "label": "Wikipedia: Bank Gothic",
+          "url": "https://en.wikipedia.org/wiki/Bank_Gothic"
+        }
+      ]
+    },
+    {
+      "category": "Monospace",
+      "name": "Coding monospace",
+      "summary": "Fixed-width fonts designed for code editors and terminals, with clearly different forms for easily confused characters such as 0/O and 1/l/I.",
+      "history": "Monaco, by Susan Kare, Kris Holmes and Charles Bigelow, has shipped with every Macintosh since 1984. Apple replaced it as the default monospaced font with Menlo, based on Bitstream Vera and DejaVu, in Mac OS X Snow Leopard (2009). Other purpose-built coding faces include Microsoft's Consolas and Adobe's open-source Source Code Pro.",
+      "examples": [
+        "Menlo",
+        "Monaco",
+        "Consolas",
+        "Source Code Pro"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Monospaced font",
+          "url": "https://en.wikipedia.org/wiki/Monospaced_font"
+        },
+        {
+          "label": "Wikipedia: Menlo (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Menlo_(typeface)"
+        },
+        {
+          "label": "Wikipedia: Monaco (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Monaco_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Monospace",
+      "name": "Typewriter",
+      "summary": "Monospaced faces, often slab serifs, that reproduce the look of typewritten text. They're good for screenplays, a vintage or documentary feel, and anywhere a 'typed' character is wanted.",
+      "history": "Typewriters used fixed-pitch type, very often slab serif. Courier, designed by Howard 'Bud' Kettler for IBM in the mid-1950s, became the defining typewriter face and is still the standard for screenplays at 12 point. Courier New and Lucida Sans Typewriter carried the style onto computers.",
+      "examples": [
+        "Courier",
+        "Courier New",
+        "Lucida Sans Typewriter"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Courier (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Courier_(typeface)"
+        },
+        {
+          "label": "Wikipedia: Typewriter",
+          "url": "https://en.wikipedia.org/wiki/Typewriter"
+        }
+      ]
+    },
+    {
+      "category": "Script & handwriting",
+      "name": "Formal / calligraphic",
+      "summary": "Elegant scripts based on pointed-pen and broad-nib calligraphy, often with connecting letters, swashes and ligatures. They're used for invitations, certificates and refined headings.",
+      "history": "Most formal scripts follow 17th- and 18th-century writing masters such as George Bickham, George Shelley and Charles Snell. Matthew Carter's Snell Roundhand (1966) used phototypesetting to reproduce a style that was hard to do in metal. Hermann Zapf's Zapfino (1998), based on a 1944 alphabet, makes heavy use of ligatures and alternates.",
+      "examples": [
+        "Snell Roundhand",
+        "Kuenstler Script",
+        "Zapfino"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Script typeface § Formal scripts",
+          "url": "https://en.wikipedia.org/wiki/Script_typeface#Formal_scripts"
+        },
+        {
+          "label": "Wikipedia: Zapfino",
+          "url": "https://en.wikipedia.org/wiki/Zapfino"
+        },
+        {
+          "label": "Wikipedia: Calligraphy",
+          "url": "https://en.wikipedia.org/wiki/Calligraphy"
+        }
+      ]
+    },
+    {
+      "category": "Script & handwriting",
+      "name": "Casual handwriting",
+      "summary": "Informal, friendly fonts based on everyday handwriting or comic-style lettering, often not joined up. They suit notes, children's material and relaxed, personal designs.",
+      "history": "Casual scripts appeared in the early 20th century and became common in advertising with phototypesetting in the 1950s. Some, like Freestyle Script, don't connect. Vincent Connare's Comic Sans (Microsoft, 1994) was designed as a non-connecting script inspired by comic-book speech bubbles.",
+      "examples": [
+        "Comic Sans",
+        "Freestyle Script",
+        "Lucida Handwriting"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Script typeface § Casual scripts",
+          "url": "https://en.wikipedia.org/wiki/Script_typeface#Casual_scripts"
+        },
+        {
+          "label": "Wikipedia: Comic Sans",
+          "url": "https://en.wikipedia.org/wiki/Comic_Sans"
+        }
+      ]
+    },
+    {
+      "category": "Script & handwriting",
+      "name": "Brush / marker",
+      "summary": "Scripts that imitate the lively, uneven strokes of an ink brush or felt marker. They're punchy and energetic for posters, packaging and signage.",
+      "history": "Robert E. Smith's Brush Script (ATF, 1942) and Roger Excoffon's Mistral (1953), based on his own handwriting, are classic brush scripts. Both were widely used in advertising in the mid-20th century. Brush Script has come back into fashion for its nostalgic postwar associations.",
+      "examples": [
+        "Brush Script",
+        "Mistral",
+        "Kaufmann"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Brush Script",
+          "url": "https://en.wikipedia.org/wiki/Brush_Script"
+        },
+        {
+          "label": "Wikipedia: Mistral (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Mistral_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Display & decorative",
+      "name": "Engraved / titling",
+      "summary": "Capital-heavy display faces for titles, often with engraved, inline or shaded strokes or inscriptional proportions. They look dignified at large sizes.",
+      "history": "Titling fonts are a subset of display type, often capitals-only and tuned for large sizes. Engraved, inline and shaded styles were among the earliest display genres of the 19th century. Copperplate Gothic (1901) echoed lettering on copperplate engravings, and Trajan (1989) revived Roman monumental capitals.",
+      "examples": [
+        "Trajan",
+        "Copperplate Gothic"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Display typeface § Styles",
+          "url": "https://en.wikipedia.org/wiki/Display_typeface#Styles_of_display_typeface"
+        },
+        {
+          "label": "Wikipedia: Copperplate Gothic",
+          "url": "https://en.wikipedia.org/wiki/Copperplate_Gothic"
+        },
+        {
+          "label": "Wikipedia: Trajan (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Trajan_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Display & decorative",
+      "name": "Historical / antique",
+      "summary": "Display faces that evoke earlier eras and hands, such as medieval blackletter, uncials, chancery scripts or ancient writing. They're used for period atmosphere, fantasy and themed designs.",
+      "history": "Blackletter was the book hand of Western Europe from roughly the late 12th to the 17th century, and in German printing Fraktur survived into the 1940s. Uncials were a capitals-only script of the 4th to 8th centuries. Modern fonts such as Papyrus (1983), which imitates writing on papyrus, borrow these historical flavours for display use.",
+      "examples": [
+        "Fraktur",
+        "Papyrus"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Blackletter",
+          "url": "https://en.wikipedia.org/wiki/Blackletter"
+        },
+        {
+          "label": "Wikipedia: Uncial script",
+          "url": "https://en.wikipedia.org/wiki/Uncial_script"
+        },
+        {
+          "label": "Wikipedia: Papyrus (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Papyrus_(typeface)"
+        }
+      ]
+    },
+    {
+      "category": "Display & decorative",
+      "name": "Textured / novelty",
+      "summary": "Playful or experimental display faces with distressed, chalky, stencilled, inline or otherwise unusual letterforms, used for a strong theme or mood.",
+      "history": "Novelty display type grew with 19th-century posters and later with phototypesetting and digital fonts, which let decorative lettering be set at any size. Genres include 'distressed' faces such as Shatter, abstract redesigns such as Milton Glaser's Baby Teeth, and faces that imitate stencils, embossing tape or another writing system.",
+      "examples": [
+        "Shatter",
+        "Baby Teeth"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Display typeface § Styles",
+          "url": "https://en.wikipedia.org/wiki/Display_typeface#Styles_of_display_typeface"
+        }
+      ]
+    },
+    {
+      "category": "Symbols & pictographs",
+      "name": "Dingbats / pictographs",
+      "summary": "Fonts of ornaments, arrows, stars, check marks, hands and other small pictures, used for bullets, borders and decoration.",
+      "history": "'Dingbat' was originally the printer's word for a typographic ornament. Hermann Zapf's ITC Zapf Dingbats (1978) became a PostScript standard. Microsoft's Wingdings (1990) combined Lucida symbol sets. Many of these symbols were later added to Unicode, including Wingdings and Webdings symbols in Unicode 7.0.",
+      "examples": [
+        "Zapf Dingbats",
+        "Wingdings",
+        "Webdings"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Dingbat",
+          "url": "https://en.wikipedia.org/wiki/Dingbat"
+        },
+        {
+          "label": "Wikipedia: Zapf Dingbats",
+          "url": "https://en.wikipedia.org/wiki/Zapf_Dingbats"
+        },
+        {
+          "label": "Wikipedia: Wingdings",
+          "url": "https://en.wikipedia.org/wiki/Wingdings"
+        }
+      ]
+    },
+    {
+      "category": "Symbols & pictographs",
+      "name": "Math & technical",
+      "summary": "Fonts covering Greek letters, mathematical operators, styled math alphabets and technical symbols for equations, science and engineering.",
+      "history": "Symbol, a Greek-and-math font in the style of Times, was one of the four standard fonts on PostScript printers from Apple's LaserWriter (1985) onward. The publisher-sponsored STIX Fonts project began in 1995 and released STIX 1.0 in 2010 and STIX Two in 2016. Its fonts cover Unicode's mathematical and technical blocks.",
+      "examples": [
+        "STIX Two Math",
+        "Symbol"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: STIX Fonts project",
+          "url": "https://en.wikipedia.org/wiki/STIX_Fonts_project"
+        },
+        {
+          "label": "Wikipedia: Symbol (typeface)",
+          "url": "https://en.wikipedia.org/wiki/Symbol_(typeface)"
+        },
+        {
+          "label": "Wikipedia: Mathematical Alphanumeric Symbols",
+          "url": "https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols"
+        }
+      ]
+    },
+    {
+      "category": "Symbols & pictographs",
+      "name": "Emoji",
+      "summary": "Color pictograph fonts for emoji, the faces, objects and symbols used in messages to add emotion and meaning.",
+      "history": "The first emoji sets were created by Japanese mobile-device companies in the late 1980s and 1990s. Emoji spread worldwide in the 2010s once Unicode began encoding them. Their inclusion on the iPhone is credited with spreading emoji use outside Japan, and on Apple platforms they're drawn by the Apple Color Emoji font.",
+      "examples": [
+        "Apple Color Emoji"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Emoji",
+          "url": "https://en.wikipedia.org/wiki/Emoji"
+        },
+        {
+          "label": "Wikipedia: Apple Color Emoji",
+          "url": "https://en.wikipedia.org/wiki/Apple_Color_Emoji"
+        }
+      ]
+    },
+    {
+      "category": "Symbols & pictographs",
+      "name": "Braille",
+      "summary": "Fonts that display braille cells, the raised-dot patterns of the tactile writing system, as visual dots on screen or in print.",
+      "history": "Louis Braille developed his code in 1824, at age fifteen, and published it in 1829. Each character is a combination of dots in a cell. Unicode's Braille Patterns block (U+2800–U+28FF) encodes all 256 possible 8-dot cells without assigning them letter meanings.",
+      "examples": [
+        "Apple Braille"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Braille",
+          "url": "https://en.wikipedia.org/wiki/Braille"
+        },
+        {
+          "label": "Wikipedia: Braille Patterns",
+          "url": "https://en.wikipedia.org/wiki/Braille_Patterns"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Arabic",
+      "summary": "Fonts for the Arabic script, which is written right to left in a connected cursive style and used for Arabic, Persian, Urdu and many other languages. Styles include Naskh, Kufic and Nastaliq.",
+      "history": "The Arabic script was first used for Arabic, most notably the Quran, and spread with Islam to many language families. It is the second most widely used alphabetic writing system. Calligraphic styles such as angular Kufic and flowing Nastaliq, which developed in Iran from the 13th century, still shape Arabic typefaces.",
+      "examples": [
+        "Geeza Pro",
+        "DecoType Naskh",
+        "Diwan Kufi",
+        "Noto Nastaliq Urdu"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Arabic script",
+          "url": "https://en.wikipedia.org/wiki/Arabic_script"
+        },
+        {
+          "label": "Wikipedia: Islamic calligraphy",
+          "url": "https://en.wikipedia.org/wiki/Islamic_calligraphy"
+        },
+        {
+          "label": "Wikipedia: Nastaliq",
+          "url": "https://en.wikipedia.org/wiki/Nastaliq"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Hebrew",
+      "summary": "Fonts for the Hebrew alphabet, a right-to-left abjad used for Hebrew, Yiddish, Ladino and other Jewish languages.",
+      "history": "The modern 'square' Hebrew script is a stylized form of the Imperial Aramaic alphabet, which in turn comes from Phoenician. It replaced the older Paleo-Hebrew script, which survives in a variant form as the Samaritan alphabet. Both square and cursive Hebrew styles are in use today.",
+      "examples": [
+        "Arial Hebrew",
+        "New Peninim MT",
+        "Raanana",
+        "Corsiva Hebrew"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Hebrew alphabet",
+          "url": "https://en.wikipedia.org/wiki/Hebrew_alphabet"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Indic",
+      "summary": "Fonts for the Brahmic scripts of South Asia, such as Devanagari, Bengali, Gujarati, Gurmukhi, Tamil, Telugu, Kannada, Malayalam, Odia and Sinhala. These abugidas are used for Hindi, Marathi, Nepali, Bengali, Tamil and many other languages.",
+      "history": "The Brahmic (Indic) scripts descend from the Brahmi script of ancient India, which appeared fully developed in the 3rd century BCE. Devanagari, the most widely adopted of them, was in regular use by the 8th century CE and reached its modern form by about 1000 CE.",
+      "examples": [
+        "Kohinoor Devanagari",
+        "Devanagari Sangam MN",
+        "Tamil Sangam MN",
+        "Gujarati MT"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Brahmic scripts",
+          "url": "https://en.wikipedia.org/wiki/Brahmic_scripts"
+        },
+        {
+          "label": "Wikipedia: Devanagari",
+          "url": "https://en.wikipedia.org/wiki/Devanagari"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Chinese",
+      "summary": "Fonts for Chinese characters (Hanzi) in Simplified or Traditional forms, typically in Song/Ming (serif-like) or Hei (sans-serif) styles.",
+      "history": "Chinese characters are first attested on Shang dynasty oracle bones from the 13th century BCE and are the only one of the four independently invented writing systems still in continuous use. The Song or Ming printing style began in the Song dynasty, matured under the Ming, and is still the most common text style for Chinese and Japanese.",
+      "examples": [
+        "PingFang SC",
+        "Songti SC",
+        "Heiti SC",
+        "STSong"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Chinese characters",
+          "url": "https://en.wikipedia.org/wiki/Chinese_characters"
+        },
+        {
+          "label": "Wikipedia: Ming typefaces",
+          "url": "https://en.wikipedia.org/wiki/Ming_typefaces"
+        },
+        {
+          "label": "Wikipedia: East Asian typography",
+          "url": "https://en.wikipedia.org/wiki/East_Asian_typography"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Japanese",
+      "summary": "Fonts for Japanese, which mixes kanji with the hiragana and katakana syllabaries, typically in Mincho (serif-like) or Gothic (sans-serif) styles.",
+      "history": "Japanese writing combines kanji, adopted from Chinese characters, with kana, which evolved from simplified or cursive forms of Chinese characters. Because it mixes scripts and uses a large set of kanji, it's often called one of the most complex writing systems in use.",
+      "examples": [
+        "Hiragino Sans",
+        "Hiragino Mincho ProN",
+        "Hiragino Maru Gothic ProN"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Japanese writing system",
+          "url": "https://en.wikipedia.org/wiki/Japanese_writing_system"
+        },
+        {
+          "label": "Wikipedia: Kanji",
+          "url": "https://en.wikipedia.org/wiki/Kanji"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Korean",
+      "summary": "Fonts for Hangul, the Korean alphabet, whose letters are grouped into syllable blocks. They typically come in Myeongjo/Batang (serif-like) or Gothic/Dotum (sans-serif) styles.",
+      "history": "King Sejong the Great of Joseon created Hangul, announcing it around 1443–44 and publishing it in 1446 as Hunminjeongeum. It replaced Chinese characters, which were poorly suited to Korean. It gained broad acceptance only in the late 19th century and is now the main script in both Koreas.",
+      "examples": [
+        "Apple SD Gothic Neo",
+        "AppleMyungjo",
+        "AppleGothic"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Hangul",
+          "url": "https://en.wikipedia.org/wiki/Hangul"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Southeast Asian",
+      "summary": "Fonts for mainland Southeast Asian scripts such as Thai, Lao, Khmer and Burmese (Myanmar). These Brahmic abugidas are known for stacked or looped letterforms.",
+      "history": "These scripts descend ultimately from the Brahmi script via South Indian scripts such as Pallava. Khmer script gave rise to Lao. Burmese comes from the Mon–Burmese script, and Thai uses 44 consonants and tone marks to write Thai and other languages of Thailand.",
+      "examples": [
+        "Thonburi",
+        "Sukhumvit Set",
+        "Khmer Sangam MN",
+        "Myanmar Sangam MN",
+        "Lao Sangam MN"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Thai script",
+          "url": "https://en.wikipedia.org/wiki/Thai_script"
+        },
+        {
+          "label": "Wikipedia: Khmer script",
+          "url": "https://en.wikipedia.org/wiki/Khmer_script"
+        },
+        {
+          "label": "Wikipedia: Burmese alphabet",
+          "url": "https://en.wikipedia.org/wiki/Burmese_alphabet"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Tibetan",
+      "summary": "Fonts for the Tibetan script, an abugida used for Tibetan, Dzongkha and other Tibetic languages of the Himalayan region.",
+      "history": "Tibetan is one of the Brahmic scripts. By tradition it was developed by Thonmi Sambhota for King Songtsen Gampo. Its printed form is called uchen, and everyday handwriting is called umê.",
+      "examples": [
+        "Kailasa",
+        "Kokonor"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Tibetan script",
+          "url": "https://en.wikipedia.org/wiki/Tibetan_script"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Ethiopic",
+      "summary": "Fonts for the Ge'ez (Ethiopic) script, an abugida used for Amharic, Tigrinya and other languages of Ethiopia and Eritrea.",
+      "history": "Ge'ez began as a consonant-only abjad for the Ge'ez language, which is still the liturgical language of the Ethiopian and Eritrean Orthodox Tewahedo churches. It later became an abugida and was adapted to write Amharic, Tigrinya and more than 20 other languages. Amharic and Tigrinya speakers often call it fidäl.",
+      "examples": [
+        "Kefa III"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Geʽez script",
+          "url": "https://en.wikipedia.org/wiki/Ge%CA%BDez_script"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Armenian",
+      "summary": "Fonts for the Armenian alphabet, a left-to-right script used for the Armenian language.",
+      "history": "The Armenian alphabet was created around 405 AD by the linguist and church leader Mesrop Mashtots. It originally had 36 letters, two more were added in the 13th century, and the ligature և is treated as a letter in the reformed orthography of the 1920s.",
+      "examples": [
+        "Mshtakan"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Armenian alphabet",
+          "url": "https://en.wikipedia.org/wiki/Armenian_alphabet"
+        }
+      ]
+    },
+    {
+      "category": "World script",
+      "name": "Other world script",
+      "summary": "Fonts for other writing systems, such as Cherokee, Canadian Aboriginal syllabics, N'Ko, Syriac, Batak and Tagalog.",
+      "history": "Many of these scripts have distinctive origins. Sequoyah created the Cherokee syllabary in the late 1810s and early 1820s. Missionary James Evans devised Canadian syllabics for Cree and related languages. Solomana Kanté created N'Ko for the Manding languages in 1949, and Syriac has been written since the 1st century.",
+      "examples": [
+        "Plantagenet Cherokee",
+        "Euphemia UCAS",
+        "Noto Sans NKo",
+        "Noto Sans Syriac",
+        "Noto Sans Batak"
+      ],
+      "links": [
+        {
+          "label": "Wikipedia: Writing system",
+          "url": "https://en.wikipedia.org/wiki/Writing_system"
+        },
+        {
+          "label": "Wikipedia: Cherokee syllabary",
+          "url": "https://en.wikipedia.org/wiki/Cherokee_syllabary"
+        },
+        {
+          "label": "Wikipedia: Canadian Aboriginal syllabics",
+          "url": "https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Narrow / condensed",
+      "summary": "Letters are narrower than normal. That fits more text into tight columns, headlines, tables and labels.",
+      "links": []
+    },
+    {
+      "name": "Wide / extended",
+      "summary": "Letters are wider than normal. That gives a broad, confident look for headlines, logos and short display lines.",
+      "links": []
+    },
+    {
+      "name": "Handwritten",
+      "summary": "Looks written by hand with a pen, pencil or chalk. It's useful for a personal, informal or human touch.",
+      "links": [
+        {
+          "label": "Wikipedia: Script typeface",
+          "url": "https://en.wikipedia.org/wiki/Script_typeface"
+        }
+      ]
+    },
+    {
+      "name": "Calligraphic",
+      "summary": "Based on skilled pen or brush calligraphy, often with contrast, flourishes and ligatures. It suits formal or artistic headings and invitations.",
+      "links": [
+        {
+          "label": "Wikipedia: Calligraphy",
+          "url": "https://en.wikipedia.org/wiki/Calligraphy"
+        }
+      ]
+    },
+    {
+      "name": "Brush / marker",
+      "summary": "Strokes imitate an ink brush or felt-tip marker. It gives an energetic, hand-painted feel for posters, packaging and signs.",
+      "links": [
+        {
+          "label": "Wikipedia: Brush Script",
+          "url": "https://en.wikipedia.org/wiki/Brush_Script"
+        }
+      ]
+    },
+    {
+      "name": "Rounded",
+      "summary": "Stroke ends and corners are softened into curves. It looks friendly and approachable, which suits interfaces, children's material and casual branding.",
+      "links": []
+    },
+    {
+      "name": "Heavy / black",
+      "summary": "A very bold or black weight with lots of ink per letter. It's built for impact in headlines, posters and short attention-grabbing text.",
+      "links": [
+        {
+          "label": "Wikipedia: Fat face",
+          "url": "https://en.wikipedia.org/wiki/Fat_face"
+        }
+      ]
+    },
+    {
+      "name": "Typewriter",
+      "summary": "Looks like typewritten text, usually monospaced or slab-serifed. It's useful for screenplays, vintage looks and a 'typed document' feel.",
+      "links": [
+        {
+          "label": "Wikipedia: Typewriter",
+          "url": "https://en.wikipedia.org/wiki/Typewriter"
+        }
+      ]
+    },
+    {
+      "name": "Caps / small caps",
+      "summary": "Caps-only designs or families with true small capitals. They're good for titles, headings, acronyms and refined emphasis.",
+      "links": [
+        {
+          "label": "Wikipedia: Small caps",
+          "url": "https://en.wikipedia.org/wiki/Small_caps"
+        }
+      ]
+    },
+    {
+      "name": "Engraved / inline",
+      "summary": "Letters look carved, engraved or cut with an inner line or shading. It gives a classic, formal or dimensional look for titles and signage.",
+      "links": [
+        {
+          "label": "Wikipedia: Display typeface § Styles",
+          "url": "https://en.wikipedia.org/wiki/Display_typeface#Styles_of_display_typeface"
+        }
+      ]
+    },
+    {
+      "name": "Textured / chalk",
+      "summary": "Deliberately rough, chalky or distressed letterforms. They work for playful, rustic or hand-made themes such as menus and posters.",
+      "links": []
+    },
+    {
+      "name": "Historical / antique",
+      "summary": "Evokes an earlier period, such as blackletter, uncials, Renaissance chancery hands or ancient inscriptions. It's used for period, fantasy or heritage atmosphere.",
+      "links": [
+        {
+          "label": "Wikipedia: Blackletter",
+          "url": "https://en.wikipedia.org/wiki/Blackletter"
+        }
+      ]
+    },
+    {
+      "name": "Screen / UI",
+      "summary": "Designed or tuned for legibility on screens and in software interfaces, often with generous x-heights and open shapes.",
+      "links": []
+    },
+    {
+      "name": "Web-safe classic",
+      "summary": "One of the long-established fonts found on almost every computer, such as Microsoft's 'core fonts for the Web' set, so it's a safe fallback for web pages and shared documents.",
+      "links": [
+        {
+          "label": "Wikipedia: TrueType core fonts for the Web",
+          "url": "https://en.wikipedia.org/wiki/TrueType_core_fonts_for_the_Web"
+        }
+      ]
+    },
+    {
+      "name": "Pan-Unicode / multi-script",
+      "summary": "Covers a very wide range of Unicode scripts and symbols in one family. It's useful as a fallback for multilingual text.",
+      "links": [
+        {
+          "label": "Wikipedia: Unicode font",
+          "url": "https://en.wikipedia.org/wiki/Unicode_font"
+        }
+      ]
+    },
+    {
+      "name": "Signage / industrial",
+      "summary": "Rooted in road signs, wayfinding, technical lettering or engraved and stencilled labels. It gives a functional, engineered look that stays readable at a distance.",
+      "links": [
+        {
+          "label": "Wikipedia: DIN 1451",
+          "url": "https://en.wikipedia.org/wiki/DIN_1451"
+        }
+      ]
+    },
+    {
+      "name": "Formal / elegant",
+      "summary": "Refined, high-contrast or calligraphic styling suited to invitations, certificates, luxury branding and other formal settings.",
+      "links": []
+    },
+    {
+      "name": "Playful / casual",
+      "summary": "Relaxed, friendly or whimsical letterforms. It suits informal notes, children's material and fun, lighthearted designs.",
+      "links": []
+    }
+  ]
+}

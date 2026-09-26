@@ -1,0 +1,1161 @@
+[
+  {
+    "family": "Al Bayan",
+    "summary": "An Arabic typeface in regular and bold with simple, fairly even naskh-style letters. It works well for everyday Arabic text.",
+    "history": "The font's copyright notice says it was designed by the Al Bayan Company for Computer Services, with Apple copyright dates of 1992–1998. That puts it in the classic Mac OS era. It is one of Apple's longest-serving Arabic fonts and was among the seven Arabic fonts that shipped with OS X 10.8.",
+    "designers": "Al Bayan Company for Computer Services",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Naskh style (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Naskh_(script)"
+      },
+      {
+        "label": "About the Arabic script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_script"
+      },
+      {
+        "label": "Apple: Fonts included with macOS Sequoia",
+        "url": "https://support.apple.com/en-us/120414"
+      }
+    ]
+  },
+  {
+    "family": "Al Nile",
+    "summary": "A traditional naskh-style Arabic typeface in regular and bold, with graceful contrast between thick and thin strokes. A good choice for readable Arabic body text.",
+    "history": "Al Nile carries a 1993 copyright from Diwan Science and Information Technology, the original name of the Arabic publishing-software company Diwan, which was founded in 1985. Apple added it to the Mac in OS X 10.9 Mavericks (2013), along with several other Diwan Arabic fonts.",
+    "designers": "Diwan Science and Information Technology",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Arabic script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_script"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "Apple: Fonts included with OS X Mavericks",
+        "url": "https://support.apple.com/en-us/101673"
+      }
+    ]
+  },
+  {
+    "family": "Al Tarikh",
+    "summary": "A single-weight Arabic typeface in a classic, lightly calligraphic naskh style. Suited to headings and short texts with a traditional feel.",
+    "history": "Al Tarikh was made by Diwan Software (2001 copyright). Apple added it in OS X 10.9 Mavericks (2013), when Mac OS X gained about a dozen new Arabic-script fonts.",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Arabic script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_script"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "Apple: Fonts included with OS X Mavericks",
+        "url": "https://support.apple.com/en-us/101673"
+      }
+    ]
+  },
+  {
+    "family": "Apple SD Gothic Neo",
+    "summary": "A clean, modern Korean sans serif (gothic) typeface in nine weights, from Thin to Heavy. It is Apple's standard Korean font for interfaces and body text.",
+    "history": "Apple SD Gothic Neo was made by the Seoul foundry Sandoll for Apple. It is based on Sandoll's own Gothic Neo1 superfamily. Sandoll dates the project to 2011 and describes it as the default Korean system font on all Apple devices. It covers all 11,172 modern Hangul syllables plus a large set of Chinese characters (hanja).",
+    "designers": "Sandoll Communications",
+    "originalDesignYear": 2011,
+    "category": "World script",
+    "subtype": "Korean",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Sandoll, the foundry (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Sandoll_Communications"
+      },
+      {
+        "label": "Sandoll: Apple SD Gothic Neo",
+        "url": "https://en.sandoll.co.kr/AppleSDGothicNeo"
+      },
+      {
+        "label": "Fonts In Use: Sandoll GothicNeo",
+        "url": "https://fontsinuse.com/typefaces/40640/sandoll-gothicneo"
+      }
+    ]
+  },
+  {
+    "family": "AppleGothic",
+    "summary": "An older Korean gothic (sans serif) typeface from Apple, with plain, even strokes and a simple Latin alphabet. Useful for compatibility with older Korean Mac documents.",
+    "history": "AppleGothic is one of Apple's own Korean fonts, with copyright dates of 1994–2006. Wikipedia's list of CJK fonts notes that it has fully supported Unicode Hangul since Mac OS X 10.5 Leopard. It has since been superseded by Apple SD Gothic Neo.",
+    "designers": "Apple",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Korean",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia: List of CJK fonts",
+        "url": "https://en.wikipedia.org/wiki/List_of_CJK_fonts"
+      },
+      {
+        "label": "About Hangul, the Korean alphabet (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hangul"
+      },
+      {
+        "label": "About East Asian gothic typefaces (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/East_Asian_Gothic_typeface"
+      }
+    ]
+  },
+  {
+    "family": "AppleMyungjo",
+    "summary": "A Korean serif typeface in the myeongjo (Ming) style, with brush-derived strokes, wedge-shaped terminals, and a matching serif Latin. Good for traditional-looking Korean text.",
+    "history": "AppleMyungjo is one of Apple's own Korean fonts, with copyright dates of 1994–2007. Wikipedia's list of CJK fonts notes that it has fully supported Unicode Hangul since Mac OS X 10.5 Leopard.",
+    "designers": "Apple",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Korean",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia: List of CJK fonts",
+        "url": "https://en.wikipedia.org/wiki/List_of_CJK_fonts"
+      },
+      {
+        "label": "About Ming/Myeongjo-style type (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ming_typefaces"
+      },
+      {
+        "label": "About Hangul, the Korean alphabet (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hangul"
+      }
+    ]
+  },
+  {
+    "family": "Arial Hebrew",
+    "summary": "A sans serif Hebrew typeface that pairs with Arial, in Light, Regular, and Bold. It includes vowel points (niqqud) and cantillation marks.",
+    "history": "Arial Hebrew is one of the Monotype versions of Arial made for other scripts, and Monotype also sells it separately. Its data carries 1990–1993 copyrights from Monotype and Type Solutions. Since OS X 10.9 Mavericks, Apple ships its weights together in a single ArialHB font collection.",
+    "designers": "Monotype",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Hebrew",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia (Arial)",
+        "url": "https://en.wikipedia.org/wiki/Arial"
+      },
+      {
+        "label": "About the Hebrew alphabet (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hebrew_alphabet"
+      },
+      {
+        "label": "Monotype, the foundry (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Monotype_Imaging"
+      }
+    ]
+  },
+  {
+    "family": "Arial Hebrew Scholar",
+    "summary": "A companion version of Arial Hebrew in the same three weights, intended for texts that use full vowel pointing and cantillation marks.",
+    "history": "Arial Hebrew Scholar comes in the same Apple font file as Arial Hebrew and carries the same 1990–1993 Monotype and Type Solutions copyright. Both fonts cover the same Hebrew characters. Apple does not publicly document how the Scholar version differs.",
+    "designers": "Monotype",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Hebrew",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia (Arial)",
+        "url": "https://en.wikipedia.org/wiki/Arial"
+      },
+      {
+        "label": "About the Hebrew alphabet (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hebrew_alphabet"
+      },
+      {
+        "label": "About Hebrew cantillation (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hebrew_cantillation"
+      }
+    ]
+  },
+  {
+    "family": "Ayuthaya",
+    "summary": "A Thai typeface with plain, looped letterforms and fixed-width (monospaced) Latin characters. This gives it a tidy, typewriter-like rhythm.",
+    "history": "Ayuthaya is one of Apple's own Thai fonts, with copyright dates of 1992–2011. It has shipped with Mac OS X alongside Apple's other Thai fonts, such as Krungthep, Sathu, Silom, and Thonburi.",
+    "designers": "Apple",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Southeast Asian",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Thai script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Thai_script"
+      },
+      {
+        "label": "Wikipedia: List of typefaces included with macOS",
+        "url": "https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS"
+      }
+    ]
+  },
+  {
+    "family": "Baghdad",
+    "summary": "A single-weight Arabic typeface with simple, low-contrast naskh-style letters, suited to general Arabic text.",
+    "history": "According to its copyright notice, Baghdad was designed by Diwan Software, with Apple copyright dates of 1992–1998. It was one of the seven Arabic fonts that shipped with OS X 10.8 and is still included with macOS.",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Naskh style (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Naskh_(script)"
+      },
+      {
+        "label": "About the Arabic script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_script"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      }
+    ]
+  },
+  {
+    "family": "Bangla MN",
+    "summary": "A Bengali (Bangla) typeface in regular and bold, with moderately contrasted strokes and a humanist Latin companion. Suitable for Bengali and Assamese text.",
+    "history": "Bangla MN was designed by Muthu Nedumaran (2009 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"MN\" family of Indic and Southeast Asian fonts. Fonts In Use notes that the plain MN fonts pair the script with a humanist sans Latin that has some stroke contrast.",
+    "designers": "Muthu Nedumaran",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Bengali–Assamese script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bengali%E2%80%93Assamese_script"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      },
+      {
+        "label": "Murasu Systems (foundry)",
+        "url": "https://murasu.com/"
+      }
+    ]
+  },
+  {
+    "family": "Bangla Sangam MN",
+    "summary": "A Bengali (Bangla) typeface in regular and bold, with even, low-contrast strokes and a plain sans serif Latin. It gives Bengali text a clean, modern look.",
+    "history": "Bangla Sangam MN was designed by Muthu Nedumaran (2003 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"Sangam MN\" fonts. Fonts In Use describes their Latin as a grotesque-style sans, unlike the more humanist Latin of the plain MN fonts.",
+    "designers": "Muthu Nedumaran",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Bengali–Assamese script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bengali%E2%80%93Assamese_script"
+      },
+      {
+        "label": "Fonts In Use: Sangam MN Latin",
+        "url": "https://fontsinuse.com/typefaces/38528/sangam-mn-latin"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      }
+    ]
+  },
+  {
+    "family": "Beirut",
+    "summary": "A very heavy, compact Arabic display typeface with bold, blocky strokes. It works best for headlines and short, punchy text.",
+    "history": "Beirut was made by Diwan Software (2001 copyright). Apple added it in OS X 10.9 Mavericks (2013), when Mac OS X gained about a dozen new Arabic-script fonts.",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [
+      "Heavy / black"
+    ],
+    "links": [
+      {
+        "label": "About the Arabic script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_script"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "Apple: Fonts included with OS X Mavericks",
+        "url": "https://support.apple.com/en-us/101673"
+      }
+    ]
+  },
+  {
+    "family": "Corsiva Hebrew",
+    "summary": "A slanted, cursive-flavored Hebrew typeface in regular and bold that gives Hebrew text a flowing, handwritten feel. Good for invitations and display use.",
+    "history": "Corsiva Hebrew is a Monotype design. Its data carries 1990–1993 copyrights from Monotype and Type Solutions, and \"Corsiva\" is a Monotype trademark. Since OS X 10.9 Mavericks, Apple has shipped its regular and bold styles in a single font collection.",
+    "designers": "Monotype",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Hebrew",
+    "tags": [
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "About the Hebrew alphabet (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Hebrew_alphabet"
+      },
+      {
+        "label": "Monotype, the foundry (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Monotype_Imaging"
+      }
+    ]
+  },
+  {
+    "family": "Damascus",
+    "summary": "A clean, contemporary Arabic typeface in five weights, with simple, even strokes. A versatile choice for Arabic text and interfaces.",
+    "history": "Damascus comes from Diwan Software, with copyright dates of 1987–2012. It was one of the seven Arabic fonts in OS X 10.8, and Diwan also sells it commercially through MyFonts.",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [],
+    "links": [
+      {
+        "label": "MyFonts: Damascus",
+        "url": "https://www.myfonts.com/collections/damascus-font-diwan-software"
+      },
+      {
+        "label": "About the Naskh style (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Naskh_(script)"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      }
+    ]
+  },
+  {
+    "family": "DecoType Naskh",
+    "summary": "A richly traditional Arabic typeface modeled on classical naskh calligraphy, with many ligatures and pen-shaped strokes. It suits literary and religious texts that call for an authentic calligraphic look.",
+    "history": "DecoType Naskh was created by Thomas Milo of DecoType, a firm known for calligraphy-based Arabic type technology. The font carries 1992–2007 DecoType copyrights. It was one of the seven Arabic fonts that shipped with OS X 10.8 and is still included with macOS.",
+    "designers": "Thomas Milo (DecoType)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "About the Naskh style (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Naskh_(script)"
+      },
+      {
+        "label": "About Arabic typography (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_typography"
+      },
+      {
+        "label": "DecoType (foundry)",
+        "url": "https://decotype.com/"
+      }
+    ]
+  },
+  {
+    "family": "Devanagari MT",
+    "summary": "A traditional Devanagari typeface in regular and bold, with calligraphic contrast and a serif Latin companion. Suitable for Hindi, Marathi, Sanskrit, and other languages written in Devanagari.",
+    "history": "Devanagari MT is a Monotype design with a 1996 copyright. The name inside the font file is \"Monotype Devanagari\".",
+    "designers": "Monotype",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Devanagari script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Devanagari"
+      },
+      {
+        "label": "Monotype, the foundry (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Monotype_Imaging"
+      }
+    ]
+  },
+  {
+    "family": "Devanagari Sangam MN",
+    "summary": "A Devanagari typeface in regular and bold, with even, low-contrast strokes and a plain sans serif Latin. It gives Hindi and Marathi text a clean, modern look.",
+    "history": "Devanagari Sangam MN was designed by Muthu Nedumaran (2003 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"Sangam MN\" fonts. Fonts In Use describes their Latin as a grotesque-style sans, unlike the more humanist Latin of the plain MN fonts.",
+    "designers": "Muthu Nedumaran",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Devanagari script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Devanagari"
+      },
+      {
+        "label": "Fonts In Use: Sangam MN Latin",
+        "url": "https://fontsinuse.com/typefaces/38528/sangam-mn-latin"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      }
+    ]
+  },
+  {
+    "family": "Diwan Kufi",
+    "summary": "A geometric Arabic display typeface in the angular Kufic style, with straight strokes and squared-off forms. Best for titles, logos, and decorative use.",
+    "history": "Diwan Kufi was made by Diwan Software (2001 copyright). Apple added it in OS X 10.9 Mavericks (2013). Kufic is the oldest style of Arabic calligraphy and is still widely used in architecture and decoration.",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Kufic style (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kufic"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "Apple: Fonts included with OS X Mavericks",
+        "url": "https://support.apple.com/en-us/101673"
+      }
+    ]
+  },
+  {
+    "family": "Diwan Thuluth",
+    "summary": "An ornate Arabic typeface in the Thuluth calligraphic style, with tall, sweeping letters that stack and overlap. Made for formal headings and decorative text.",
+    "history": "Diwan Thuluth was made by Diwan Software (2001 copyright); its font notice says it was programmed by Anmar Sabeeh and Abu Hassan. Apple added it in OS X 10.9 Mavericks (2013).",
+    "designers": "Diwan Software Ltd. (programmed by Anmar Sabeeh & Abu Hassan)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [
+      "Calligraphic",
+      "Formal / elegant"
+    ],
+    "links": [
+      {
+        "label": "About the Thuluth style (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Thuluth"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "Apple: Fonts included with OS X Mavericks",
+        "url": "https://support.apple.com/en-us/101673"
+      }
+    ]
+  },
+  {
+    "family": "Euphemia UCAS",
+    "summary": "A humanist sans serif typeface for Unified Canadian Aboriginal Syllabics, with a matching Latin alphabet. It covers languages such as Cree, Inuktitut, and Carrier.",
+    "history": "Euphemia was designed by Ross Mills of Tiro Typeworks. Wikipedia gives its release as 2005. Microsoft ships it with Windows as \"Euphemia\", and Apple ships a version called Euphemia UCAS. Tiro later reworked and extended the design as Euphemia version 4 (2023).",
+    "designers": "Ross Mills (Tiro Typeworks)",
+    "originalDesignYear": 2005,
+    "category": "World script",
+    "subtype": "Other world script",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Euphemia_(typeface)"
+      },
+      {
+        "label": "Fonts In Use: Euphemia",
+        "url": "https://fontsinuse.com/typefaces/102277/euphemia"
+      },
+      {
+        "label": "About Canadian syllabics (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics"
+      }
+    ]
+  },
+  {
+    "family": "Farah",
+    "summary": "A bold, compactly spaced Arabic display typeface with lively, pen-like strokes. Suited to headlines and short texts that need personality.",
+    "history": "Farah was made by Diwan Software (2001 copyright). Apple added it in OS X 10.9 Mavericks (2013), when Mac OS X gained about a dozen new Arabic-script fonts.",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Arabic script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_script"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "Apple: Fonts included with OS X Mavericks",
+        "url": "https://support.apple.com/en-us/101673"
+      }
+    ]
+  },
+  {
+    "family": "Farisi",
+    "summary": "A slanting, flowing Arabic-script typeface with a calligraphic, Persian flavor. Its name is Arabic for \"Persian.\" Best for display and decorative text.",
+    "history": "Farisi was made by Diwan Software (2002 copyright). Apple added it in OS X 10.9 Mavericks (2013).",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [
+      "Calligraphic"
+    ],
+    "links": [
+      {
+        "label": "About the Arabic script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Arabic_script"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "Apple: Fonts included with OS X Mavericks",
+        "url": "https://support.apple.com/en-us/101673"
+      }
+    ]
+  },
+  {
+    "family": "GB18030 Bitmap",
+    "summary": "A pixel-based (bitmap-only) Chinese font covering more than 20,000 CJK ideographs, with a blocky, screen-pixel look. It is mainly a reference and compatibility font for the Chinese GB 18030 character standard.",
+    "history": "The font carries a 2002 copyright from NISC, People's Republic of China. It supports GB 18030, the Chinese government's official character-set standard. Wikipedia's list of macOS fonts records it as \"NISC GB18030\", a bitmap-only font.",
+    "designers": "NISC, People's Republic of China",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Chinese",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the GB 18030 standard (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/GB_18030"
+      },
+      {
+        "label": "Wikipedia: List of typefaces included with macOS",
+        "url": "https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS"
+      }
+    ]
+  },
+  {
+    "family": "Geeza Pro",
+    "summary": "A clean, simple Arabic typeface in regular and bold. For years it has been the standard Arabic font on Mac and iPhone, and it reads well on screen.",
+    "history": "Geeza was designed by Diwan Software, and Fonts In Use dates the family's start to 1992. It has come bundled with Mac OS X since at least 10.3 Panther (2003), and Diwan describes Geeza Pro as the standard Arabic typeface for Mac OS X and iOS.",
+    "designers": "Diwan Software Ltd.",
+    "originalDesignYear": 1992,
+    "category": "World script",
+    "subtype": "Arabic",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Fonts In Use: Geeza",
+        "url": "https://fontsinuse.com/typefaces/124066/geeza"
+      },
+      {
+        "label": "Diwan Software (foundry)",
+        "url": "https://www.diwan.com/index.php/about"
+      },
+      {
+        "label": "About the Naskh style (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Naskh_(script)"
+      }
+    ]
+  },
+  {
+    "family": "Grantha Sangam MN",
+    "summary": "A typeface for the Grantha script in regular and bold, with even, low-contrast strokes and a plain sans serif Latin. Grantha is a classical South Indian script historically used to write Sanskrit in Tamil Nadu and Kerala.",
+    "history": "Grantha Sangam MN was designed by Muthu Nedumaran (2004 copyright). Apple ships it in the same font file as Tamil Sangam MN, and it also covers Tamil characters. Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"Sangam MN\" fonts. Fonts In Use describes their Latin as a grotesque-style sans, unlike the more humanist Latin of the plain MN fonts.",
+    "designers": "Muthu Nedumaran",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Grantha script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Grantha_script"
+      },
+      {
+        "label": "Fonts In Use: Sangam MN Latin",
+        "url": "https://fontsinuse.com/typefaces/38528/sangam-mn-latin"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      }
+    ]
+  },
+  {
+    "family": "Gujarati MT",
+    "summary": "A traditional Gujarati typeface in regular and bold, with calligraphic stroke contrast and a serif Latin companion. Suitable for Gujarati-language text.",
+    "history": "Gujarati MT is a Monotype design with a 1996 copyright. The name inside the font file is \"Monotype Gujarati\".",
+    "designers": "Monotype",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Gujarati script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Gujarati_script"
+      },
+      {
+        "label": "Monotype, the foundry (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Monotype_Imaging"
+      }
+    ]
+  },
+  {
+    "family": "Gujarati Sangam MN",
+    "summary": "A Gujarati typeface in regular and bold, with even, low-contrast strokes and a plain sans serif Latin. It gives Gujarati text a clean, modern look.",
+    "history": "Gujarati Sangam MN was designed by Muthu Nedumaran (2009 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"Sangam MN\" fonts. Fonts In Use describes their Latin as a grotesque-style sans, unlike the more humanist Latin of the plain MN fonts.",
+    "designers": "Muthu Nedumaran",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Gujarati script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Gujarati_script"
+      },
+      {
+        "label": "Fonts In Use: Sangam MN Latin",
+        "url": "https://fontsinuse.com/typefaces/38528/sangam-mn-latin"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      }
+    ]
+  },
+  {
+    "family": "Gurmukhi MN",
+    "summary": "A Gurmukhi typeface in regular and bold for writing Punjabi, with moderately contrasted strokes and a humanist Latin companion.",
+    "history": "Gurmukhi MN was designed by Muthu Nedumaran for Murasu Systems (2003 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"MN\" family of Indic and Southeast Asian fonts. Fonts In Use notes that the plain MN fonts pair the script with a humanist sans Latin that has some stroke contrast.",
+    "designers": "Muthu Nedumaran (Murasu Systems)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Gurmukhi script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Gurmukhi"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      },
+      {
+        "label": "Murasu Systems (foundry)",
+        "url": "https://murasu.com/"
+      }
+    ]
+  },
+  {
+    "family": "Gurmukhi MT",
+    "summary": "A single-weight Gurmukhi typeface for Punjabi, with sturdy, traditional letterforms.",
+    "history": "Gurmukhi MT is a Monotype design with a 1996 copyright. The name inside the font file is \"Monotype Gurmukhi\".",
+    "designers": "Monotype",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Gurmukhi script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Gurmukhi"
+      },
+      {
+        "label": "Monotype, the foundry (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Monotype_Imaging"
+      }
+    ]
+  },
+  {
+    "family": "Gurmukhi Sangam MN",
+    "summary": "A Gurmukhi typeface in regular and bold for Punjabi, with even, low-contrast strokes and a plain sans serif Latin. It gives text a clean, modern look.",
+    "history": "Gurmukhi Sangam MN was designed by Muthu Nedumaran for Murasu Systems (2011 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"Sangam MN\" fonts. Fonts In Use describes their Latin as a grotesque-style sans, unlike the more humanist Latin of the plain MN fonts.",
+    "designers": "Muthu Nedumaran (Murasu Systems)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Gurmukhi script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Gurmukhi"
+      },
+      {
+        "label": "Fonts In Use: Sangam MN Latin",
+        "url": "https://fontsinuse.com/typefaces/38528/sangam-mn-latin"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      }
+    ]
+  },
+  {
+    "family": "Heiti SC",
+    "summary": "A Simplified Chinese heiti (sans serif, \"black type\") typeface in Light and Medium, with plain, even strokes. Built for on-screen Chinese text.",
+    "history": "Heiti SC was made by Changzhou SinoType Technology, with copyright dates of 2000–2007. It first shipped with Mac OS X 10.6 Snow Leopard (2009) as the Chinese system font. It kept that role until OS X 10.11 El Capitan, when PingFang replaced it.",
+    "designers": "SinoType",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Chinese",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia: List of CJK fonts",
+        "url": "https://en.wikipedia.org/wiki/List_of_CJK_fonts"
+      },
+      {
+        "label": "About East Asian gothic (hei) typefaces (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/East_Asian_Gothic_typeface"
+      },
+      {
+        "label": "About Simplified Chinese characters (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Simplified_Chinese_characters"
+      }
+    ]
+  },
+  {
+    "family": "Heiti TC",
+    "summary": "A Traditional Chinese heiti (sans serif) typeface in Light and Medium, with plain, even strokes. Built for on-screen Chinese text as used in Taiwan and Hong Kong.",
+    "history": "Heiti TC was made by Changzhou SinoType Technology, with copyright dates of 2000–2007. It shipped with Mac OS X 10.6 Snow Leopard (2009) as the Traditional Chinese counterpart to Heiti SC. It served as a Chinese system font until PingFang replaced it in OS X 10.11 El Capitan.",
+    "designers": "SinoType",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Chinese",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia: List of CJK fonts",
+        "url": "https://en.wikipedia.org/wiki/List_of_CJK_fonts"
+      },
+      {
+        "label": "About East Asian gothic (hei) typefaces (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/East_Asian_Gothic_typeface"
+      },
+      {
+        "label": "About Traditional Chinese characters (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Traditional_Chinese_characters"
+      }
+    ]
+  },
+  {
+    "family": "Hiragino Maru Gothic ProN",
+    "summary": "A friendly, rounded Japanese sans serif (maru gothic) with soft stroke ends, for approachable text, signage, and UI.",
+    "history": "Hiragino is a Japanese type family designed by the Tokyo studio Jiyukobo (founded by Tsutomu Suzuki, Osamu Torinoumi, and Keiichi Katada) and sold by SCREEN Graphic Solutions, formerly Dainippon Screen. Fonts In Use dates Maru Gothic to 2000. Apple bundles one weight, W4, in the ProN version, which follows the JIS X 0213 character standard.",
+    "designers": "Jiyukobo (Tsutomu Suzuki, Osamu Torinoumi, Keiichi Katada)",
+    "originalDesignYear": 2000,
+    "category": "World script",
+    "subtype": "Japanese",
+    "tags": [
+      "Rounded"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hiragino"
+      },
+      {
+        "label": "Fonts In Use: Hiragino Maru Gothic",
+        "url": "https://fontsinuse.com/typefaces/47041/hiragino-maru-gothic"
+      },
+      {
+        "label": "SCREEN: Hiragino fonts",
+        "url": "https://hiragino.screen.co.jp/"
+      }
+    ]
+  },
+  {
+    "family": "Hiragino Mincho ProN",
+    "summary": "An elegant Japanese serif (mincho) typeface in W3 and W6 weights, with fine horizontals and brush-like terminals. Ideal for books, editorial work, and refined display text.",
+    "history": "The Hiragino family was designed by Jiyukobo and has been sold by SCREEN Graphic Solutions (formerly Dainippon Screen) since 1993. It is named after the Hiragino district of Kyoto. Hiragino has been built into Mac OS X from its early days; Apple announced in 2000 that Mac OS X would ship with high-quality Japanese fonts. The ProN version follows the JIS X 0213 character standard.",
+    "designers": "Jiyukobo (Tsutomu Suzuki, Osamu Torinoumi, Keiichi Katada)",
+    "originalDesignYear": 1993,
+    "category": "World script",
+    "subtype": "Japanese",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hiragino"
+      },
+      {
+        "label": "Fonts In Use: Hiragino Mincho",
+        "url": "https://fontsinuse.com/typefaces/47040/hiragino-mincho"
+      },
+      {
+        "label": "SCREEN: Hiragino fonts",
+        "url": "https://hiragino.screen.co.jp/"
+      }
+    ]
+  },
+  {
+    "family": "Hiragino Sans",
+    "summary": "A clear, modern Japanese sans serif (kaku gothic) in ten weights, from the hairline W0 to the heavy W9. A versatile workhorse for Japanese interfaces, signage, and text.",
+    "history": "Hiragino Sans is Apple's name for Hiragino Kaku Gothic, part of the Hiragino family designed by Jiyukobo for SCREEN Graphic Solutions (formerly Dainippon Screen). Fonts In Use dates Kaku Gothic to 1994. Apple bundles the full ten-weight range.",
+    "designers": "Jiyukobo (Tsutomu Suzuki, Osamu Torinoumi, Keiichi Katada)",
+    "originalDesignYear": 1994,
+    "category": "World script",
+    "subtype": "Japanese",
+    "tags": [
+      "Screen / UI"
+    ],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hiragino"
+      },
+      {
+        "label": "Fonts In Use: Hiragino Kaku Gothic",
+        "url": "https://fontsinuse.com/typefaces/32227/hiragino-kaku-gothic"
+      },
+      {
+        "label": "SCREEN: Hiragino fonts",
+        "url": "https://hiragino.screen.co.jp/"
+      }
+    ]
+  },
+  {
+    "family": "Hiragino Sans GB",
+    "summary": "A Simplified Chinese sans serif in W3 and W6 weights, designed to match the Japanese Hiragino Sans. A clean choice for mainland Chinese text.",
+    "history": "Hiragino Sans GB is the Simplified Chinese member of the Hiragino family, sold by SCREEN Graphic Solutions, with copyrights from 2007. It supports the GB 18030 character set, and Apple has included it since Mac OS X 10.6 Snow Leopard.",
+    "designers": "SCREEN Graphic Solutions Co., Ltd.",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Chinese",
+    "tags": [],
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hiragino"
+      },
+      {
+        "label": "About Simplified Chinese characters (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Simplified_Chinese_characters"
+      },
+      {
+        "label": "SCREEN: Hiragino fonts",
+        "url": "https://hiragino.screen.co.jp/"
+      }
+    ]
+  },
+  {
+    "family": "ITF Devanagari",
+    "summary": "A high-contrast Devanagari typeface with classical proportions in five weights, from Light to Bold. Built for books, magazines, and newspapers in Hindi, Marathi, and Nepali.",
+    "history": "ITF Devanagari was designed by Satya Rajpurohit at the Indian Type Foundry, which dates its release to 2011. ITF says the family is optimized for legibility at small sizes and that each style contains 847 glyphs. Apple added it in OS X 10.10 Yosemite (2014).",
+    "designers": "Satya Rajpurohit (Indian Type Foundry)",
+    "originalDesignYear": 2011,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Indian Type Foundry: ITF Devanagari",
+        "url": "https://www.indiantypefoundry.com/fonts/itf-devanagari"
+      },
+      {
+        "label": "About the Devanagari script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Devanagari"
+      },
+      {
+        "label": "Wikipedia: List of typefaces included with macOS",
+        "url": "https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS"
+      }
+    ]
+  },
+  {
+    "family": "ITF Devanagari Marathi",
+    "summary": "A version of ITF Devanagari that uses the letter shapes preferred in Marathi, such as the distinctive Marathi forms of ल (la) and श (sha). Same five weights and high-contrast book style.",
+    "history": "Designed by Satya Rajpurohit at the Indian Type Foundry (2011 copyright), this is a Marathi-localized cut of ITF Devanagari. Apple ships both versions in the same font file.",
+    "designers": "Satya Rajpurohit (Indian Type Foundry)",
+    "originalDesignYear": 2011,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Indian Type Foundry: ITF Devanagari",
+        "url": "https://www.indiantypefoundry.com/fonts/itf-devanagari"
+      },
+      {
+        "label": "About the Marathi language (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Marathi_language"
+      },
+      {
+        "label": "About the Devanagari script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Devanagari"
+      }
+    ]
+  },
+  {
+    "family": "Kailasa",
+    "summary": "A Tibetan typeface in regular and bold for writing Tibetan and Dzongkha, with traditional uchen (headline) letterforms.",
+    "history": "Kailasa comes from the Otani University Shin Buddhist Research Institute in Kyoto (2006 copyright) and was designed by Yoichi Fukuda, Steve Hartwell, and Shojiro Nomura. It first shipped with Mac OS X 10.5 Leopard (2007), together with the Tibetan font Kokonor, when Apple added built-in Unicode Tibetan support.",
+    "designers": "Yoichi Fukuda, Steve Hartwell & Shojiro Nomura",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Tibetan",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Tibetan script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Tibetan_script"
+      },
+      {
+        "label": "Digital Tibetan: Tibetan on macOS",
+        "url": "https://github.com/DigitalTibetan/DigitalTibetan/blob/main/docs/computers_macos.md"
+      }
+    ]
+  },
+  {
+    "family": "Kannada MN",
+    "summary": "A Kannada typeface in regular and bold, with moderately contrasted strokes and a humanist Latin companion. For the Kannada language of Karnataka, India.",
+    "history": "Kannada MN was designed by Muthu Nedumaran for Murasu Systems (2009 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"MN\" family of Indic and Southeast Asian fonts. Fonts In Use notes that the plain MN fonts pair the script with a humanist sans Latin that has some stroke contrast.",
+    "designers": "Muthu Nedumaran (Murasu Systems)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Kannada script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kannada_script"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      },
+      {
+        "label": "Murasu Systems (foundry)",
+        "url": "https://murasu.com/"
+      }
+    ]
+  },
+  {
+    "family": "Kannada Sangam MN",
+    "summary": "A Kannada typeface in regular and bold, with even, low-contrast strokes and a plain sans serif Latin. It gives Kannada text a clean, modern look.",
+    "history": "Kannada Sangam MN was designed by Muthu Nedumaran (2009 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"Sangam MN\" fonts. Fonts In Use describes their Latin as a grotesque-style sans, unlike the more humanist Latin of the plain MN fonts.",
+    "designers": "Muthu Nedumaran",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Kannada script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Kannada_script"
+      },
+      {
+        "label": "Fonts In Use: Sangam MN Latin",
+        "url": "https://fontsinuse.com/typefaces/38528/sangam-mn-latin"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      }
+    ]
+  },
+  {
+    "family": "Kefa III",
+    "summary": "An Ethiopic (Ge'ez) typeface for Amharic, Tigrinya, and other languages of Ethiopia and Eritrea. Its Latin companion has slab serif roots, a tall x-height, and narrow proportions.",
+    "history": "Jérémie Hornus designed the original Kefa in 2006 during the MA Typeface Design program at the University of Reading. Apple has included Kefa since Mac OS X 10.6. Hornus and Gaëtan Baehr at Black[Foundry] later revised it as Kefa III (2022 copyright), the third version of this Apple system font. They redesigned the Ethiopic and extended it to cover Unicode 14.",
+    "designers": "Jérémie Hornus, Gaëtan Baehr (Black[Foundry])",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Ethiopic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Black[Foundry]: Kefa III",
+        "url": "https://black-foundry.com/fonts/kefa-iii/"
+      },
+      {
+        "label": "Fonts In Use: Kefa",
+        "url": "https://fontsinuse.com/typefaces/32751/kefa"
+      },
+      {
+        "label": "About the Ge'ez (Ethiopic) script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Ge%CA%BDez_script"
+      }
+    ]
+  },
+  {
+    "family": "Khmer MN",
+    "summary": "A Khmer typeface in regular and bold for the Khmer language of Cambodia, with moderately contrasted strokes and a humanist Latin companion.",
+    "history": "Khmer MN was designed by Muthu Nedumaran for Murasu Systems (2010 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"MN\" family of Indic and Southeast Asian fonts. Fonts In Use notes that the plain MN fonts pair the script with a humanist sans Latin that has some stroke contrast.",
+    "designers": "Muthu Nedumaran (Murasu Systems)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Southeast Asian",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Khmer script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Khmer_script"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      },
+      {
+        "label": "Murasu Systems (foundry)",
+        "url": "https://murasu.com/"
+      }
+    ]
+  },
+  {
+    "family": "Khmer Sangam MN",
+    "summary": "A single-weight Khmer typeface for Cambodian text, with even, low-contrast strokes and a plain sans serif Latin.",
+    "history": "Khmer Sangam MN was designed by Muthu Nedumaran for Murasu Systems (2010 copyright). Muthu Nedumaran, founder of the Malaysian company Murasu Systems, designed Apple's \"Sangam MN\" fonts. Fonts In Use describes their Latin as a grotesque-style sans, unlike the more humanist Latin of the plain MN fonts.",
+    "designers": "Muthu Nedumaran (Murasu Systems)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Southeast Asian",
+    "tags": [],
+    "links": [
+      {
+        "label": "About the Khmer script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Khmer_script"
+      },
+      {
+        "label": "Fonts In Use: Sangam MN Latin",
+        "url": "https://fontsinuse.com/typefaces/38528/sangam-mn-latin"
+      },
+      {
+        "label": "Fonts In Use: Muthu Nedumaran",
+        "url": "https://fontsinuse.com/type_designers/3652/muthu-nedumaran"
+      }
+    ]
+  },
+  {
+    "family": "Kohinoor Bangla",
+    "summary": "A low-contrast, open Bengali sans serif in five weights, from Light to Bold. Suited to apps, signage, editorial work, and subtitles.",
+    "history": "Kohinoor Bangla was designed by Satya Rajpurohit and Jyotish Sonowal at the Indian Type Foundry between 2009 and 2015, with OpenType production by Liang Hai. It is part of ITF's multiscript Kohinoor superfamily. ITF notes that the fonts were built into products from Apple, Sony, and others before ITF released them for retail sale in 2018.",
+    "designers": "Satya Rajpurohit, Jyotish Sonowal (Indian Type Foundry)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Indian Type Foundry: Kohinoor Bangla",
+        "url": "https://www.indiantypefoundry.com/fonts/kohinoor-bangla"
+      },
+      {
+        "label": "About the Bengali–Assamese script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Bengali%E2%80%93Assamese_script"
+      }
+    ]
+  },
+  {
+    "family": "Kohinoor Devanagari",
+    "summary": "A low-contrast Devanagari sans serif in five weights, from Light to Bold, for Hindi, Marathi, and Sanskrit. Works in both body text and display sizes, in print and on screen.",
+    "history": "Kohinoor Devanagari was designed by Satya Rajpurohit at the Indian Type Foundry between 2009 and 2014, with OpenType production by Liang Hai. ITF dates its release to 2010, and it is part of ITF's multiscript Kohinoor superfamily. Apple added it in OS X 10.10 Yosemite (2014).",
+    "designers": "Satya Rajpurohit (Indian Type Foundry)",
+    "originalDesignYear": 2010,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Indian Type Foundry: Kohinoor Devanagari",
+        "url": "https://www.indiantypefoundry.com/fonts/kohinoor-devanagari"
+      },
+      {
+        "label": "About the Devanagari script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Devanagari"
+      },
+      {
+        "label": "Wikipedia: List of typefaces included with macOS",
+        "url": "https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS"
+      }
+    ]
+  },
+  {
+    "family": "Kohinoor Gujarati",
+    "summary": "A low-contrast Gujarati sans serif with open counters, in five weights from Light to Bold. Works in both body text and display sizes.",
+    "history": "Satya Rajpurohit developed Kohinoor Gujarati at the Indian Type Foundry from 2009 to 2014, with OpenType production by Liang Hai. ITF dates its release to 2014. It is part of the Kohinoor Multiscript superfamily and covers Parsi Gujarati and Kutchi as well as standard Gujarati.",
+    "designers": "Satya Rajpurohit (Indian Type Foundry)",
+    "originalDesignYear": 2014,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Indian Type Foundry: Kohinoor Gujarati",
+        "url": "https://www.indiantypefoundry.com/fonts/kohinoor-gujarati"
+      },
+      {
+        "label": "About the Gujarati script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Gujarati_script"
+      }
+    ]
+  },
+  {
+    "family": "Kohinoor Telugu",
+    "summary": "A low-contrast Telugu sans serif with open letterforms, in five weights from Light to Bold. A workhorse for apps, signage, and editorial text.",
+    "history": "Kohinoor Telugu was designed by Satya Rajpurohit at the Indian Type Foundry between 2014 and 2015, with OpenType production by Liang Hai. It is part of ITF's Kohinoor superfamily. ITF notes that the fonts were built into products from Apple, Sony, and others before ITF released them for retail sale in 2018.",
+    "designers": "Satya Rajpurohit (Indian Type Foundry)",
+    "originalDesignYear": null,
+    "category": "World script",
+    "subtype": "Indic",
+    "tags": [],
+    "links": [
+      {
+        "label": "Indian Type Foundry: Kohinoor Telugu",
+        "url": "https://www.indiantypefoundry.com/fonts/kohinoor-telugu"
+      },
+      {
+        "label": "About the Telugu script (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Telugu_script"
+      }
+    ]
+  }
+]

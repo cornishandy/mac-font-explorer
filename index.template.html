@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f6f3ed" />
+    <title>Mac Font Explorer — gallery, history, and data for every Mac font</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="fonts.js"></script>
+    <script defer src="font-data.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="masthead">
+        <a class="wordmark" href="#page-title" aria-label="Mac Font Explorer home"><span class="wordmark-mark">F<span>✳</span></span><span>MAC FONT<br />EXPLORER</span></a>
+        <div class="masthead-right"><span class="masthead-line"></span><span>AN ATLAS OF TYPE</span><span class="edition">01 / YOUR MAC</span></div>
+      </header>
+
+      <main>
+        <section class="intro" aria-labelledby="page-title">
+          <div class="eyebrow"><span class="eyebrow-dot"></span> THE FONT EXPLORER <span class="eyebrow-rule"></span> 183 FAMILIES</div>
+          <h1 id="page-title">Find your<br /><em>type.</em></h1>
+          <div class="intro-bottom">
+            <p>Browse every font in the T3 Code picker. Read each typeface’s story, compare letterforms and measured dimensions, and star favorites. Stars and saved views can sync between your computer and phone.</p>
+            <div class="intro-stamp" aria-hidden="true"><span>Aa</span><small>TYPE IS<br />PERSONAL</small></div>
+          </div>
+        </section>
+
+        <section class="explorer" aria-label="Font explorer">
+          <div class="section-heading"><span>01 / EXPLORE THE FAMILIES</span><span id="result-count" aria-live="polite"></span></div>
+
+          <div class="toolbar">
+            <div class="search-wrap">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.7"></circle><path d="m16 16 5 5"></path></svg>
+              <input id="search" type="search" placeholder="Search fonts by name, type, or designer" aria-label="Search fonts" autocomplete="off" />
+              <kbd>/</kbd>
+            </div>
+            <label class="select-wrap"><span>WEIGHT</span><select id="weight" aria-label="Font weight"><option value="100">100 · Thin</option><option value="200">200 · Extra light</option><option value="300">300 · Light</option><option value="400" selected>400 · Regular</option><option value="500">500 · Medium</option><option value="600">600 · Semibold</option><option value="700">700 · Bold</option><option value="800">800 · Extra bold</option><option value="900">900 · Black</option></select><svg viewBox="0 0 12 12" aria-hidden="true"><path d="m2 4 4 4 4-4" /></svg></label>
+            <div class="view-switch" role="group" aria-label="Font view"><button id="all-button" type="button" aria-pressed="true">All fonts</button><button id="compare-button" type="button" aria-pressed="false"><span class="star-icon">★</span> Compare starred <span id="star-count" class="count-pill">0</span></button></div>
+          </div>
+
+          <div class="dashboard-controls">
+            <div class="filter-header"><strong>REFINE THE COLLECTION</strong><span><button id="toggle-controls" type="button" aria-expanded="true">Hide filters &amp; sync</button><button id="clear-filters" type="button">Clear filters</button></span></div>
+            <div class="quick-filters">
+              <label>TYPEFACE<select id="category-filter"><option value="">All types</option></select></label>
+              <label>SUBTYPE<select id="subtype-filter"><option value="">All subtypes</option></select></label>
+              <label>TIER<select id="tier-filter"><option value="">All tiers</option></select></label>
+              <label>ENGLISH GLYPHS<select id="english-filter"><option value="">All coverage</option><option value="yes">A–Z present</option><option value="no">Incomplete</option></select></label>
+              <label>MONOSPACE<select id="mono-filter"><option value="">Either</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+              <label>ON THIS DEVICE<select id="device-filter"><option value="">All fonts</option><option value="yes">Installed here</option><option value="no">Not installed (image preview)</option></select></label>
+              <label>YEAR SOURCE<select id="year-source-filter"><option value="">Any source</option><option value="Design">Verified design</option><option value="File copyright">File copyright</option><option value="Unknown">Unknown</option></select></label>
+            </div>
+            <div class="range-filters">
+              <label>YEAR <input id="year-min" type="number" placeholder="From" /></label><label><span class="visually-hidden">Maximum year</span><input id="year-max" type="number" placeholder="To" /></label>
+              <label>CAP HEIGHT, pt <input id="height-min" type="number" step="0.1" placeholder="Min" /></label><label><span class="visually-hidden">Maximum cap height</span><input id="height-max" type="number" step="0.1" placeholder="Max" /></label>
+              <label>SENTENCE WIDTH, pt <input id="width-min" type="number" step="0.1" placeholder="Min" /></label><label><span class="visually-hidden">Maximum sentence width</span><input id="width-max" type="number" step="0.1" placeholder="Max" /></label>
+            </div>
+            <div class="tag-filters"><div class="tag-filters-head"><span>STYLE</span><label>MATCH<select id="tag-mode"><option value="any">Any selected</option><option value="all">All selected</option></select></label></div><div id="tag-chips" class="tag-chips" role="group" aria-label="Style filters"></div></div>
+            <div class="advanced-line"><label>ANY FIELD FILTER <select id="field-filter"></select></label><label>RULE<select id="operator-filter"></select></label><label>VALUE<input id="value-filter" type="text" placeholder="Type a value" /></label><button id="add-filter" type="button">Add filter</button></div>
+            <div id="active-filters" class="active-filters" aria-live="polite"></div>
+            <div class="view-storage"><label>SAVED VIEWS<select id="saved-views"><option value="">Choose a saved view</option></select></label><button id="load-view" type="button">Load</button><button id="delete-view" type="button">Delete</button><label>NEW VIEW NAME<input id="view-name" type="text" maxlength="60" placeholder="e.g. Narrow serif favorites" /></label><button id="save-view" type="button">Save current view</button><span id="view-message" role="status"></span></div>
+            <div class="sync-panel" id="sync-panel">
+              <div class="sync-head"><strong>SYNC ACROSS DEVICES</strong><span id="sync-status" role="status">Not connected — stars and views are saved in this browser only.</span></div>
+              <div class="sync-connect" id="sync-connect">
+                <p>Stars, saved views, and weight sync through a private GitHub Gist in your account. <a href="https://github.com/settings/tokens/new?scopes=gist&amp;description=Mac%20Font%20Explorer%20sync" target="_blank" rel="noreferrer">Create a token with only the “gist” scope</a>, paste it here once, then use “Phone setup link” to connect your phone.</p>
+                <label>GITHUB TOKEN<input id="sync-token" type="password" autocomplete="off" spellcheck="false" placeholder="ghp_… (gist scope only)" /></label><button id="sync-connect-button" type="button">Connect</button>
+              </div>
+              <div class="sync-actions"><button id="sync-now" type="button" hidden>Sync now</button><button id="sync-link" type="button" hidden>Phone setup link</button><button id="export-state" type="button">Export backup</button><label class="file-button">Import backup<input id="import-state" type="file" accept="application/json,.json" /></label><button id="sync-disconnect" type="button" hidden>Disconnect</button></div>
+            </div>
+          </div>
+          <div class="section-tabs" role="tablist" aria-label="Explore views"><button id="tab-gallery" role="tab" aria-selected="true">Specimens</button><button id="tab-table" role="tab" aria-selected="false">Data table</button><button id="tab-pca" role="tab" aria-selected="false">PCA map</button><button id="tab-chart" role="tab" aria-selected="false">Visual explorer</button><button id="tab-guide" role="tab" aria-selected="false">Type guide</button></div>
+          <div class="helper-row"><span><span class="helper-mark">✳</span> Star favorites to compare them. Open “About” on any font for its history and sources.</span><span>Weight availability varies by family.</span></div>
+          <section id="panel-gallery" role="tabpanel"><div id="font-list" class="font-list" aria-live="polite"></div></section>
+          <section id="panel-table" role="tabpanel" hidden><div class="table-toolbar"><span>Click a column heading again to reverse the sort.</span><label>Sort by <select id="sort-field"></select></label><label>Direction <select id="sort-direction"><option value="asc">Ascending</option><option value="desc">Descending</option></select></label></div><div class="table-scroll"><table id="font-table"></table></div></section>
+          <section id="panel-pca" role="tabpanel" hidden><div class="chart-heading"><div><h2>Typeface geometry, mapped</h2><p id="pca-caption"></p></div><label>COLOR BY<select id="pca-color"></select></label></div><div class="plot-shell"><svg id="pca-plot" viewBox="0 0 900 520" role="img" aria-label="PCA scatter plot of font geometry"></svg><div id="pca-tooltip" class="plot-tooltip" hidden></div></div><div id="pca-legend" class="plot-legend"></div></section>
+          <section id="panel-chart" role="tabpanel" hidden><div class="chart-heading"><div><h2>Build a view</h2><p>Choose the axes, color, and point size. Every field can be a dimension or filter.</p></div></div><div class="chart-controls"><label>X AXIS<select id="chart-x"></select></label><label>Y AXIS<select id="chart-y"></select></label><label>COLOR<select id="chart-color"></select></label><label>SIZE<select id="chart-size"></select></label></div><div class="plot-shell"><svg id="custom-plot" viewBox="0 0 900 520" role="img" aria-label="Customizable font scatter plot"></svg><div id="chart-tooltip" class="plot-tooltip" hidden></div></div><div id="chart-legend" class="plot-legend"></div></section>
+          <section id="panel-guide" role="tabpanel" hidden><div class="chart-heading"><div><h2>Type guide</h2><p>What each category, subtype, and style means, where it came from, and which installed fonts belong to it. Choose “Show fonts” to filter the gallery.</p></div></div><div id="guide" class="guide"></div></section>
+          <div id="empty-state" class="empty-state" hidden><span class="empty-symbol">✳</span><h2 id="empty-heading">No fonts found.</h2><p id="empty-copy">Try another filter.</p><button id="empty-action" type="button">Clear filters</button></div>
+          <details class="method-notes"><summary>Data sources &amp; measurement notes</summary><p>Dimensions were measured locally with CoreText at 16 points in each regular face. Cap height is the font's uppercase height; sentence width uses “The quick brown fox jumps over the lazy dog.” Browser rendering can differ. Relative width is sentence width divided by cap height, so it compares widths independent of size; the “Narrow / condensed” style uses it (below 23.5) plus width class and family names. Families without complete A–Z coverage and symbol faces have no English dimensions; their English specimens may use fallback.</p><p>“Year” uses a typeface inception date from <a href="https://www.wikidata.org/" target="_blank" rel="noreferrer">Wikidata</a> when available. Otherwise it is the earliest year in the installed font file's copyright notice, which does not establish the original design date. Font descriptions, histories, and classifications were researched from the linked sources (mostly Wikipedia and foundry pages); each font’s “About” panel lists them. Tier measures family breadth: S = 8+ faces, A = 4–7, B = 2–3, C = 1. It is not a quality score.</p><p>On devices without a font installed (for example a phone), the gallery shows a pre-rendered image of the Mac rendering, drawn at regular weight, instead of a fallback font.</p><p>PCA uses eight standardized 16-point measurements across Latin-oriented families with complete English letter coverage. The chart projects their geometry onto the first two principal components; nearby points have similar measured proportions, not necessarily similar visual style.</p></details>
+        </section>
+      </main>
+
+      <footer><span>MAC FONT EXPLORER <span class="footer-flower">✳</span> 2026</span><span>BUILT FOR LOOKING CLOSER</span><a href="#page-title">BACK TO TOP ↑</a></footer>
+    </div>
+  </body>
+</html>
