@@ -20,7 +20,7 @@ A gallery and data explorer for every font in the T3 Code / Codex font picker: t
 1. On your computer, open the page, go to **Refine the collection → Sync across devices**, and click **Create a token with only the "gist" scope**. On GitHub, keep only `gist` checked, set an expiry you're comfortable with, and click Generate.
 2. Paste the token and click **Connect**. The page creates a secret gist named `mac-font-explorer-sync.json` in your account, or finds the existing one, and merges in everything saved locally.
 3. Click **Phone setup link**. That copies a link to the live site with the token in the `#fragment`. AirDrop or message it to yourself and open it on the phone once. The phone stores the token and removes it from the address bar.
-4. From then on, stars, saved views, and the weight setting sync automatically: on load, a moment after each change, and when you switch back to the tab. Edits on two devices merge per item.
+4. From then on, stars, saved views, and the weight setting sync automatically: on load, a moment after each change, and when you switch back to the tab. Edits on two devices merge per item eventually. Overlapping syncs can temporarily omit an item from the remote gist until the device holding that edit syncs again.
 
 **Export backup / Import backup** saves and merges a JSON file if you'd rather not use GitHub. **Disconnect** forgets the token on that device. Revoke the token at <https://github.com/settings/tokens>.
 
