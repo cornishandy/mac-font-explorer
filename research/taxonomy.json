@@ -225,10 +225,8 @@
       "category": "Serif",
       "name": "Contemporary text serif",
       "summary": "Serif text faces from the digital era that mix historical models and are tuned for modern printers, screens and editorial use rather than following one historical style.",
-      "history": "This isn't a formal classification class. It collects recent text serifs. Matthew Carter's Charter (1987) was optimized for 300 dpi laser printers. His Georgia (1993, for Microsoft) was built to stay legible on low-resolution screens. ParaType's PT Serif (2009 onward) was made to support the Cyrillic variants used by Russia's minority languages.",
+      "history": "This isn't a formal classification class. It collects recent text serifs. Matthew Carter's Charter (1987) was optimized for 300 dpi laser printers. His Georgia (designed in 1993 for Microsoft and released in 1996) was built to stay legible on low-resolution screens. ParaType's PT Serif (released in 2010) was made to support the Cyrillic variants used by Russia's minority languages.",
       "examples": [
-        "Georgia",
-        "Charter",
         "PT Serif"
       ],
       "links": [
@@ -531,7 +529,7 @@
       "category": "Symbols & pictographs",
       "name": "Dingbats / pictographs",
       "summary": "Fonts of ornaments, arrows, stars, check marks, hands and other small pictures, used for bullets, borders and decoration.",
-      "history": "'Dingbat' was originally the printer's word for a typographic ornament. Hermann Zapf's ITC Zapf Dingbats (1978) became a PostScript standard. Microsoft's Wingdings (1990) combined Lucida symbol sets. Many of these symbols were later added to Unicode, including Wingdings and Webdings symbols in Unicode 7.0.",
+      "history": "'Dingbat' was originally the printer's word for a typographic ornament. Hermann Zapf's ITC Zapf Dingbats (1978) became a PostScript standard. Microsoft's Wingdings (drawn in 1990–91 and released in 1992) combined Lucida symbol sets. Many of these symbols were later added to Unicode, including Wingdings and Webdings symbols in Unicode 7.0.",
       "examples": [
         "Zapf Dingbats",
         "Wingdings",
@@ -820,14 +818,13 @@
     {
       "category": "World script",
       "name": "Other world script",
-      "summary": "Fonts for other writing systems, such as Cherokee, Canadian Aboriginal syllabics, N'Ko, Syriac, Batak and Tagalog.",
+      "summary": "Fonts for other writing systems, such as Cherokee, Canadian Aboriginal syllabics, N'Ko, Syriac and Tagalog.",
       "history": "Many of these scripts have distinctive origins. Sequoyah created the Cherokee syllabary in the late 1810s and early 1820s. Missionary James Evans devised Canadian syllabics for Cree and related languages. Solomana Kanté created N'Ko for the Manding languages in 1949, and Syriac has been written since the 1st century.",
       "examples": [
         "Plantagenet Cherokee",
         "Euphemia UCAS",
         "Noto Sans NKo",
-        "Noto Sans Syriac",
-        "Noto Sans Batak"
+        "Noto Sans Syriac"
       ],
       "links": [
         {

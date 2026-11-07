@@ -8,8 +8,8 @@ A gallery and data explorer for every font in the T3 Code / Codex font picker: t
 ## What it does
 
 - **Specimens** of every family in its own face, with a weight selector (100–900) and a starred-only **compare** view.
-- **About & history** for every font: a summary, its history, designer, original design year, and 1–3 source links. Each card also links to its subtype in the Type guide.
-- **Type guide**: 7 categories, 33 subtypes, and 18 style tags, each with a description, history, and links, plus a "Show fonts" filter button.
+- **About & history** for every font: a summary, its history, designer, design or release year (or file copyright fallback), and 1–3 source links. Each card also links to its subtype in the Type guide.
+- **Type guide**: 7 categories, 33 defined subtypes (32 represented on this Mac and displayed in the guide), and 18 style tags, each with a description, history, and links, plus a "Show fonts" filter button.
 - **Filters**: typeface, subtype, **style tags** (Narrow / condensed, Handwritten, Calligraphic, Rounded, Heavy / black, Typewriter, Textured / chalk, Formal / elegant, and more, matching any or all), tier, English glyph coverage, monospace, installed on this device, year range and year source, cap height, sentence width, and an any-field rule builder.
 - **Data table** sortable on every column. **PCA map** of measured geometry. **Visual explorer** with a configurable X, Y, color, and size scatter chart where every field is a dimension.
 - **Saved views**, and **sync across computer and phone** through a private GitHub Gist (below).

@@ -226,7 +226,7 @@
     if (row.history) d.append(node('p','about-history',row.history));
     const facts = node('dl','about-facts');
     const fact = (k,v) => { if (v) facts.append(node('dt','',k), node('dd','',v)); };
-    fact('Designer', row.designers); fact('Year', row.year ? `${row.year} · ${row.yearBasis === 'Design' ? 'original design' : row.yearBasis.toLowerCase()}` : '');
+    fact('Designer', row.designers); fact('Year', row.year ? `${row.year} · ${row.yearBasis === 'Design' ? 'design or release' : row.yearBasis.toLowerCase()}` : '');
     fact('Maker', row.manufacturer); fact('Faces', String(row.familyMembers));
     d.append(facts);
     const sub = subtypeInfo.get(`${row.category}|${row.subtype}`);
@@ -273,7 +273,7 @@
       tableFields.forEach(key=>{const td=document.createElement('td');
         if(key==='starred')td.append(starButton(r));
         else if(key==='family'){const b=node('button','table-family',r.family);b.dataset.open=r.family;setFont(b,r.family);td.append(b);}
-        else if(key==='year'&&r.yearSource){td.append(link(r.yearSource,fmt(r.year,'year')));td.title='Source for the design year';}
+        else if(key==='year'&&r.yearSource){td.append(link(r.yearSource,fmt(r.year,'year')));td.title='Source for the design or release year';}
         else{td.textContent=fmt(value(r,key),key);if(key==='year')td.title=r.yearBasis;}
         tr.append(td);});body.append(tr);}
     table.replaceChildren(head,body);
@@ -349,7 +349,7 @@
   }
   function showTooltip(id,event,row,xKey,yKey) {
     const tip=$(id);tip.replaceChildren();
-    tip.append(node('strong','',row.family),node('span','',`${fieldMap[xKey].label}: ${fmt(value(row,xKey))}`),node('span','',`${fieldMap[yKey].label}: ${fmt(value(row,yKey))}`),node('span','',`${row.category} · ${starred(row.family)?'★ Starred':'☆ Not starred'}`));
+    tip.append(node('strong','',row.family),node('span','',`${fieldMap[xKey].label}: ${fmt(value(row,xKey),xKey)}`),node('span','',`${fieldMap[yKey].label}: ${fmt(value(row,yKey),yKey)}`),node('span','',`${row.category} · ${starred(row.family)?'★ Starred':'☆ Not starred'}`));
     tip.hidden=false;const rect=event.currentTarget.ownerSVGElement.getBoundingClientRect();tip.style.left=`${Math.min(event.clientX-rect.left+12,rect.width-220)}px`;tip.style.top=`${Math.max(4,event.clientY-rect.top-70)}px`;
   }
   function drawPlot(id,legendId,list,xKey,yKey,colorKey,sizeKey,tipId) {
@@ -372,14 +372,14 @@
       const on=starred(row.family);
       const sv=sizeKey?value(row,sizeKey):null;
       const radius=ds&&sv!=null?4+Math.max(0,Math.min(1,(sv-ds.min)/(ds.max-ds.min)))*7:on?7:5;
-      const c=svgEl('circle',{cx:x,cy:y,r:radius,fill:colorFor(value(row,colorKey),dc),'fill-opacity':on?1:.78,stroke:on?'#20231f':'#fff','stroke-width':on?2:1.2,tabindex:0,role:'img','aria-label':`${row.family}; ${fieldMap[xKey].label} ${fmt(value(row,xKey))}; ${fieldMap[yKey].label} ${fmt(value(row,yKey))}`});
-      const title=svgEl('title');title.textContent=`${row.family} · ${fieldMap[xKey].label}: ${fmt(value(row,xKey))} · ${fieldMap[yKey].label}: ${fmt(value(row,yKey))}`;c.append(title);
+      const c=svgEl('circle',{cx:x,cy:y,r:radius,fill:colorFor(value(row,colorKey),dc),'fill-opacity':on?1:.78,stroke:on?'#20231f':'#fff','stroke-width':on?2:1.2,tabindex:0,role:'img','aria-label':`${row.family}; ${fieldMap[xKey].label} ${fmt(value(row,xKey),xKey)}; ${fieldMap[yKey].label} ${fmt(value(row,yKey),yKey)}`});
+      const title=svgEl('title');title.textContent=`${row.family} · ${fieldMap[xKey].label}: ${fmt(value(row,xKey),xKey)} · ${fieldMap[yKey].label}: ${fmt(value(row,yKey),yKey)}`;c.append(title);
       c.addEventListener('mouseenter',e=>showTooltip(tipId,e,row,xKey,yKey));c.addEventListener('mouseleave',()=>{$(tipId).hidden=true;});c.addEventListener('focus',e=>showTooltip(tipId,e,row,xKey,yKey));c.addEventListener('blur',()=>{$(tipId).hidden=true;});
       c.addEventListener('click',()=>openFont(row.family));
       svg.append(c);plotted++;
     }
     const legend=$(legendId);legend.replaceChildren();
-    if(dc.numeric){legend.append(node('span','',`${fieldMap[colorKey].label}: ${fmt(dc.min)} → ${fmt(dc.max)}`));}
+    if(dc.numeric){legend.append(node('span','',`${fieldMap[colorKey].label}: ${fmt(dc.min,colorKey)} → ${fmt(dc.max,colorKey)}`));}
     else for(const v of dc.values.slice(0,12)){const item=node('span','legend-item');const dot=node('i','');dot.style.background=colorFor(v,dc);item.append(dot,document.createTextNode(v));legend.append(item);}
     legend.append(node('span','plot-count',`${plotted} plotted · outlined = starred`));
   }
