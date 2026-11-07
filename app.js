@@ -166,7 +166,12 @@
     if (filter.op === 'contains') return String(v).toLocaleLowerCase().includes(filter.input.toLocaleLowerCase());
     const type = fieldMap[filter.field].type;
     const term = type === 'number' ? Number(filter.input) : type === 'boolean' ? /^(yes|true|1)$/i.test(filter.input) : filter.input;
-    if (filter.op === 'eq') return type === 'text' ? String(v).toLocaleLowerCase() === String(term).toLocaleLowerCase() : v === term;
+    if (filter.op === 'eq') {
+      if (type === 'text') return String(v).toLocaleLowerCase() === String(term).toLocaleLowerCase();
+      // Compare numbers at the displayed precision, without locale grouping on integers.
+      if (type === 'number' && filter.field !== 'year') return Number.isFinite(term) && Number(v.toFixed(2)) === Number(term.toFixed(2));
+      return v === term;
+    }
     if (filter.op === 'lt') return v < term;
     if (filter.op === 'lte') return v <= term;
     if (filter.op === 'gt') return v > term;
@@ -217,7 +222,10 @@
     if (row.onDevice) return node('p','spec-primary',primary);
     // Not installed here: show the Mac rendering. Falls back to text if the image folder isn't alongside.
     const img = node('img','spec-image'); img.src = `specimens/${row.slug}.png`; img.alt = `${primary} (set in ${row.family})`; img.loading = 'lazy'; img.decoding = 'async';
-    img.addEventListener('error', () => img.replaceWith(node('p','spec-primary',primary)), {once: true});
+    img.addEventListener('error', () => {
+      img.parentElement.querySelector('.spec-label').textContent = 'FALLBACK TEXT · FONT UNAVAILABLE ON THIS DEVICE · SPECIMEN IMAGE MISSING';
+      img.replaceWith(node('p','spec-primary',primary));
+    }, {once: true});
     return img;
   }
   function aboutPanel(row) {
@@ -253,7 +261,7 @@
     if (row.tags.length) { const t=node('div','card-tags'); row.tags.forEach(tag=>{const c=node('button','mini-tag',tag);c.type='button';c.dataset.addTag=tag;c.title=`Filter: ${tag}`;t.append(c);}); info.append(t); }
     const bottom=node('div','card-bottom');bottom.append(node('span','tag',`TIER ${row.tier} · ${row.familyMembers} ${row.familyMembers===1?'FACE':'FACES'}${row.year?` · ${row.year}`:''}`),starButton(row));info.append(bottom);
     const sample=node('div','card-specimen');
-    const label = !row.onDevice ? 'IMAGE PREVIEW · NOT INSTALLED ON THIS DEVICE · REGULAR' : `${row.englishMetricUsable?'ENGLISH SPECIMEN':'ENGLISH SPECIMEN · FALLBACK LIKELY'} / ${$('weight').value} WEIGHT`;
+    const label = !row.onDevice ? 'IMAGE PREVIEW · NOT INSTALLED ON THIS DEVICE · REGULAR' : `${row.english?'ENGLISH SPECIMEN':'ENGLISH SPECIMEN · FALLBACK LIKELY'} / ${$('weight').value} WEIGHT`;
     sample.append(node('div','spec-label',label), specimen(row));
     if (row.onDevice) sample.append(node('p','spec-secondary','A better way to see the little things.'));
     if (row.summary) sample.append(node('p','font-summary',row.summary));
@@ -411,7 +419,7 @@
     if(empty){$('empty-heading').textContent=state.compare&&starCount()===0?'Your shortlist starts here.':'No fonts match these filters.';$('empty-copy').textContent=state.compare&&starCount()===0?'Star fonts in the full list, then compare them here.':'Clear or change a filter to see more families.';}
   }
   function openFont(name) {
-    clearFilters(false); state.tab='gallery'; state.compare=false; $('search').value=name; state.openAbout.add(name); render();
+    clearFilters(false); state.tab='gallery'; state.compare=false; state.filters.push({field:'family', op:'eq', input:name}); state.openAbout.add(name); render();
     $('panel-gallery').scrollIntoView({behavior:'smooth'});
   }
   function openGuide(key) {

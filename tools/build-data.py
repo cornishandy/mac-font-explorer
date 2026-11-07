@@ -107,7 +107,7 @@ for r in rows:
         r['yearSource'] = next((l['url'] for l in r['links']), '')
     elif r['family'] in wikidata_years:
         r['year'], r['yearSource'] = wikidata_years[r['family']]
-        r['yearBasis'] = 'Design'
+        r['yearBasis'] = 'Wikidata'
     else:
         r['year'] = min(copyright_years) if copyright_years else None
         r['yearBasis'] = 'File copyright' if copyright_years else 'Unknown'
